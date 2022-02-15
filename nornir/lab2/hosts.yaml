@@ -1,0 +1,11 @@
+---
+sw1:
+    hostname: 192.168.11.11
+    username: python
+    password: '123'
+    groups:
+        - huawei
+sw2:
+    hostname: 192.168.11.12
+    groups:
+        - huawei

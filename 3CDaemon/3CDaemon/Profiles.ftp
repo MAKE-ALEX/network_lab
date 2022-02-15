@@ -1,0 +1,33 @@
+[anonymous]
+Password = NoPassword
+CanLogin = 1
+CanUpload = 1
+CanDownload = 1
+CanOverwrite = 0
+CanDelete = 0
+CanRename = 0
+CanRmdir = 0
+CanMkDir = 0
+UserDir = C:\Documents and Settings\11\×ÀÃæ\
+[target]
+Password = 42AEFBAE01D2DFD981F7DA7D823D689E
+CanLogin = 1
+CanUpload = 1
+CanDownload = 1
+CanOverwrite = 1
+CanDelete = 0
+CanRename = 0
+CanRmdir = 0
+CanMkDir = 0
+UserDir = E:\KuGoo\Temp\
+[python]
+Password = E10ADC3949BA59ABBE56E057F20F883E
+CanLogin = 1
+CanUpload = 1
+CanDownload = 1
+CanOverwrite = 1
+CanDelete = 1
+CanRename = 1
+CanRmdir = 1
+CanMkDir = 1
+UserDir = F:\pythonProject1\

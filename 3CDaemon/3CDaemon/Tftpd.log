@@ -1,0 +1,753 @@
+May 11, 2005 11:14:04 Session 1, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 11:14:04 Session 1, Peer 10.40.42.225 Client requests GET of file H:\backup\tools\休闲娱乐\111-nx.
+May 11, 2005 11:14:04 Session 1, Peer 10.40.42.225 Could not open requested file for reading
+May 11, 2005 11:14:04 Session 1, Peer 10.40.42.225 Could not open requested file for reading
+May 11, 2005 11:22:39 Session 2, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 11:22:39 Session 2, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 11, 2005 11:23:10 Session 2, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 31 secs.(324 KB/sec)
+May 11, 2005 11:34:14 Session 3, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 11:34:14 Session 3, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 11, 2005 11:34:44 Session 3, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 30 secs.(335 KB/sec)
+May 11, 2005 14:53:23 Session 4, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 14:53:23 Session 4, Peer 10.40.42.225 Client requests GET of file E:\ros9406.
+May 11, 2005 14:53:23 Session 4, Peer 10.40.42.225 Could not open requested file for reading
+May 11, 2005 14:53:23 Session 4, Peer 10.40.42.225 Could not open requested file for reading
+May 11, 2005 14:53:52 Session 5, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 14:53:52 Session 5, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 11, 2005 14:55:04 Session 5, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 72 secs.(139 KB/sec)
+May 11, 2005 15:03:46 Session 6, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 15:03:46 Session 6, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 11, 2005 15:04:57 Session 6, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 71 secs.(141 KB/sec)
+May 11, 2005 16:19:01 Session 1, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 16:19:01 Session 1, Peer 10.40.42.225 Client requests GET of file E:\3CDaemon\3CDaemon\kernel.
+May 11, 2005 16:20:03 Session 1, Peer 10.40.42.225 Send of kernel done. 2301328 bytes in 62 secs.(36 KB/sec)
+May 11, 2005 16:25:27 Session 2, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 16:25:27 Session 2, Peer 10.40.42.225 Client requests GET of file E:\3CDaemon\3CDaemon\kernel.
+May 11, 2005 16:26:41 Session 2, Peer 10.40.42.225 Send of kernel done. 2301328 bytes in 74 secs.(30 KB/sec)
+May 11, 2005 17:24:28 Session 3, Peer 10.40.42.225 TFTP Server session started
+May 11, 2005 17:24:28 Session 3, Peer 10.40.42.225 Client requests GET of file E:\3CDaemon\3CDaemon\kernel.
+May 11, 2005 17:25:38 Session 3, Peer 10.40.42.225 Send of kernel done. 2301328 bytes in 70 secs.(32 KB/sec)
+May 12, 2005 08:29:32 Session 1, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 08:29:32 Session 1, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 08:30:40 Session 1, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 68 secs.(147 KB/sec)
+May 12, 2005 10:41:17 Session 2, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 10:41:17 Session 2, Peer 10.40.42.225 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 10:42:19 Session 2, Peer 10.40.42.225 Send of kernel done. 2301328 bytes in 62 secs.(36 KB/sec)
+May 12, 2005 13:23:16 Session 3, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 13:23:16 Session 3, Peer 10.40.42.225 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\boot\2626boot.abs.
+May 12, 2005 13:23:29 Session 3, Peer 10.40.42.225 Send of 2626boot.abs done. 457804 bytes in 13 secs.(34 KB/sec)
+May 12, 2005 13:28:37 Session 4, Peer 10.40.92.106 TFTP Server session started
+May 12, 2005 13:28:37 Session 4, Peer 10.40.92.106 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:28:39 Session 5, Peer 10.40.92.106 TFTP Server session started
+May 12, 2005 13:28:39 Session 5, Peer 10.40.92.106 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:28:41 Session 6, Peer 10.40.92.106 TFTP Server session started
+May 12, 2005 13:28:41 Session 6, Peer 10.40.92.106 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:28:42 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 9
+May 12, 2005 13:28:43 Session 7, Peer 10.40.92.106 TFTP Server session started
+May 12, 2005 13:28:43 Session 7, Peer 10.40.92.106 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:28:44 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 9
+May 12, 2005 13:28:45 Session 8, Peer 10.40.92.106 TFTP Server session started
+May 12, 2005 13:28:45 Session 8, Peer 10.40.92.106 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:28:46 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 9
+May 12, 2005 13:28:47 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 8
+May 12, 2005 13:28:48 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 9
+May 12, 2005 13:28:49 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 8
+May 12, 2005 13:28:50 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 9
+May 12, 2005 13:28:51 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 8
+May 12, 2005 13:28:52 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 7
+May 12, 2005 13:28:53 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 8
+May 12, 2005 13:28:54 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 7
+May 12, 2005 13:28:55 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 8
+May 12, 2005 13:28:56 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 7
+May 12, 2005 13:28:57 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 6
+May 12, 2005 13:28:58 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 7
+May 12, 2005 13:28:59 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 6
+May 12, 2005 13:29:00 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 7
+May 12, 2005 13:29:01 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 6
+May 12, 2005 13:29:02 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 5
+May 12, 2005 13:29:03 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 6
+May 12, 2005 13:29:04 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 5
+May 12, 2005 13:29:05 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 6
+May 12, 2005 13:29:06 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 5
+May 12, 2005 13:29:07 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 4
+May 12, 2005 13:29:08 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 5
+May 12, 2005 13:29:09 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 4
+May 12, 2005 13:29:10 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 5
+May 12, 2005 13:29:11 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 4
+May 12, 2005 13:29:12 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 3
+May 12, 2005 13:29:13 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 4
+May 12, 2005 13:29:14 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 3
+May 12, 2005 13:29:15 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 4
+May 12, 2005 13:29:16 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 3
+May 12, 2005 13:29:17 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 2
+May 12, 2005 13:29:18 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 3
+May 12, 2005 13:29:19 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 2
+May 12, 2005 13:29:20 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 3
+May 12, 2005 13:29:21 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 2
+May 12, 2005 13:29:22 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 1
+May 12, 2005 13:29:23 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 2
+May 12, 2005 13:29:24 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 1
+May 12, 2005 13:29:25 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 2
+May 12, 2005 13:29:26 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 1
+May 12, 2005 13:29:27 Session 4, Peer 10.40.92.106 Retry. Block = 1. Retries left = 0
+May 12, 2005 13:29:28 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 1
+May 12, 2005 13:29:29 Session 5, Peer 10.40.92.106 Retry. Block = 1. Retries left = 0
+May 12, 2005 13:29:30 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 1
+May 12, 2005 13:29:31 Session 6, Peer 10.40.92.106 Retry. Block = 1. Retries left = 0
+May 12, 2005 13:29:32 Session 4, Peer 10.40.92.106 kernel: No more retries left. Aborting.
+May 12, 2005 13:29:33 Session 7, Peer 10.40.92.106 Retry. Block = 1. Retries left = 0
+May 12, 2005 13:29:34 Session 5, Peer 10.40.92.106 kernel: No more retries left. Aborting.
+May 12, 2005 13:29:35 Session 8, Peer 10.40.92.106 Retry. Block = 1. Retries left = 0
+May 12, 2005 13:29:36 Session 6, Peer 10.40.92.106 kernel: No more retries left. Aborting.
+May 12, 2005 13:29:38 Session 7, Peer 10.40.92.106 kernel: No more retries left. Aborting.
+May 12, 2005 13:29:40 Session 8, Peer 10.40.92.106 kernel: No more retries left. Aborting.
+May 12, 2005 13:55:45 Session 9, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 13:55:45 Session 9, Peer 10.40.42.225 Client requests GET of file E:\用户手册\2826e\ZXR10 2626-2826E-2816V1.0.2_050224_a4\root\kernel.
+May 12, 2005 13:56:54 Session 9, Peer 10.40.42.225 Send of kernel done. 2301328 bytes in 69 secs.(32 KB/sec)
+May 12, 2005 14:16:28 Session 10, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:16:28 Session 10, Peer 10.40.42.225 Client requests GET of file E:\ros9406nx.
+May 12, 2005 14:16:28 Session 10, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:16:28 Session 10, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:16:54 Session 11, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:16:54 Session 11, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:18:04 Session 11, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 70 secs.(143 KB/sec)
+May 12, 2005 14:25:04 Session 12, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:25:04 Session 12, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:25:04 Session 12, Peer 10.40.42.225 Got socket error. Aborting! Code = 10054
+May 12, 2005 14:25:16 Session 13, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:25:16 Session 13, Peer 10.40.42.225 Client requests GET of file E:\ros9406nx.
+May 12, 2005 14:25:16 Session 13, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:25:16 Session 13, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:26:47 Session 14, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:26:47 Session 14, Peer 10.40.42.225 Client requests GET of file E:\10.40.42.226.
+May 12, 2005 14:26:47 Session 14, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:26:47 Session 14, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:27:17 Session 15, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:27:17 Session 15, Peer 10.40.42.225 Client requests GET of file E:\ros9406nx.
+May 12, 2005 14:27:17 Session 15, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:27:17 Session 15, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 14:27:36 Session 16, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:27:36 Session 16, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:28:46 Session 16, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 70 secs.(143 KB/sec)
+May 12, 2005 14:43:45 Session 17, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:43:45 Session 17, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:44:53 Session 17, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 68 secs.(147 KB/sec)
+May 12, 2005 14:47:35 Session 18, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 14:47:35 Session 18, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:48:47 Session 18, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 72 secs.(139 KB/sec)
+May 12, 2005 14:58:51 Session 19, Peer 10.40.42.224 TFTP Server session started
+May 12, 2005 14:58:51 Session 19, Peer 10.40.42.224 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 14:59:23 Session 19, Peer 10.40.42.224 Send of ros9406-nx done. 10295391 bytes in 32 secs.(314 KB/sec)
+May 12, 2005 15:00:30 Session 20, Peer 10.40.42.224 TFTP Server session started
+May 12, 2005 15:00:30 Session 20, Peer 10.40.42.224 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 15:01:00 Session 20, Peer 10.40.42.224 Send of ros9406-nx done. 10295391 bytes in 30 secs.(335 KB/sec)
+May 12, 2005 15:07:46 Session 21, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 15:07:46 Session 21, Peer 10.40.42.225 Client requests GET of file E:\ros9406nx.
+May 12, 2005 15:07:46 Session 21, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 15:07:46 Session 21, Peer 10.40.42.225 Could not open requested file for reading
+May 12, 2005 15:10:54 Session 22, Peer 10.40.42.225 TFTP Server session started
+May 12, 2005 15:10:54 Session 22, Peer 10.40.42.225 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 15:12:02 Session 22, Peer 10.40.42.225 Send of ros9406-nx done. 10295391 bytes in 68 secs.(147 KB/sec)
+May 12, 2005 15:23:13 Session 23, Peer 10.40.42.224 TFTP Server session started
+May 12, 2005 15:23:13 Session 23, Peer 10.40.42.224 Client requests GET of file E:\ros9406-nx.
+May 12, 2005 15:23:45 Session 23, Peer 10.40.42.224 Send of ros9406-nx done. 10295391 bytes in 32 secs.(314 KB/sec)
+Mar 14, 2006 14:11:01 Session 1, Peer 10.0.0.1 TFTP Server session started
+Mar 14, 2006 14:11:01 Session 1, Peer 10.0.0.1 Client requests PUT of file E:\ftp\kernel.
+Mar 14, 2006 14:13:36 Session 1, Peer 10.0.0.1 Rcv of kernel done. 2350608 bytes in 155 secs.(14 KB/sec)
+Mar 14, 2006 14:14:49 Session 2, Peer 10.0.0.1 TFTP Server session started
+Mar 14, 2006 14:14:49 Session 2, Peer 10.0.0.1 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 14:14:57 Session 2, Peer 10.0.0.1 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 14:26:44 Session 3, Peer 10.1.1.1 TFTP Server session started
+Mar 14, 2006 14:26:44 Session 3, Peer 10.1.1.1 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 14:26:52 Session 3, Peer 10.1.1.1 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 14:27:53 Session 4, Peer 10.1.1.1 TFTP Server session started
+Mar 14, 2006 14:27:53 Session 4, Peer 10.1.1.1 Client requests GET of file E:\ftp\running.cfg.
+Mar 14, 2006 14:28:03 Session 4, Peer 10.1.1.1 Send of running.cfg done. 124112 bytes in 10 secs.(12 KB/sec)
+Mar 14, 2006 14:47:45 Session 5, Peer 192.168.1.4 TFTP Server session started
+Mar 14, 2006 14:47:45 Session 5, Peer 192.168.1.4 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 14:47:53 Session 5, Peer 192.168.1.4 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 14:49:46 Session 6, Peer 192.168.1.4 TFTP Server session started
+Mar 14, 2006 14:49:46 Session 6, Peer 192.168.1.4 Client requests GET of file E:\ftp\running.cfg.
+Mar 14, 2006 14:49:56 Session 6, Peer 192.168.1.4 Send of running.cfg done. 124112 bytes in 10 secs.(12 KB/sec)
+Mar 14, 2006 15:02:53 Session 7, Peer 192.168.2.6 TFTP Server session started
+Mar 14, 2006 15:02:53 Session 7, Peer 192.168.2.6 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 15:03:01 Session 7, Peer 192.168.2.6 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 15:04:00 Session 8, Peer 192.168.2.6 TFTP Server session started
+Mar 14, 2006 15:04:00 Session 8, Peer 192.168.2.6 Client requests GET of file E:\ftp\running.cfg.
+Mar 14, 2006 15:04:10 Session 8, Peer 192.168.2.6 Send of running.cfg done. 124112 bytes in 10 secs.(12 KB/sec)
+Mar 14, 2006 15:15:33 Session 9, Peer 192.168.6.6 TFTP Server session started
+Mar 14, 2006 15:15:34 Session 9, Peer 192.168.6.6 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 15:15:42 Session 9, Peer 192.168.6.6 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 15:17:01 Session 10, Peer 192.168.6.6 TFTP Server session started
+Mar 14, 2006 15:17:01 Session 10, Peer 192.168.6.6 Client requests GET of file E:\ftp\running.cfg.
+Mar 14, 2006 15:17:11 Session 10, Peer 192.168.6.6 Send of running.cfg done. 124112 bytes in 10 secs.(12 KB/sec)
+Mar 14, 2006 15:24:00 Session 11, Peer 10.2.2.1 TFTP Server session started
+Mar 14, 2006 15:24:00 Session 11, Peer 10.2.2.1 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 15:24:08 Session 11, Peer 10.2.2.1 Rcv of running.cfg done. 124112 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 15:25:15 Session 12, Peer 10.2.2.1 TFTP Server session started
+Mar 14, 2006 15:25:15 Session 12, Peer 10.2.2.1 Client requests GET of file E:\ftp\running.cfg.
+Mar 14, 2006 15:25:25 Session 12, Peer 10.2.2.1 Send of running.cfg done. 124112 bytes in 10 secs.(12 KB/sec)
+Mar 14, 2006 16:51:06 Session 13, Peer 192.168.4.4 TFTP Server session started
+Mar 14, 2006 16:51:06 Session 13, Peer 192.168.4.4 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 16:51:15 Session 13, Peer 192.168.4.4 Rcv of running.cfg done. 124100 bytes in 9 secs.(13 KB/sec)
+Mar 14, 2006 16:51:47 Session 14, Peer 192.168.4.4 TFTP Server session started
+Mar 14, 2006 16:51:47 Session 14, Peer 192.168.4.4 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 16:51:55 Session 14, Peer 192.168.4.4 Rcv of running.cfg done. 124100 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 16:52:15 Session 15, Peer 192.168.4.4 TFTP Server session started
+Mar 14, 2006 16:52:15 Session 15, Peer 192.168.4.4 Client requests PUT of file E:\ftp\running.cfg.
+Mar 14, 2006 16:52:23 Session 15, Peer 192.168.4.4 Rcv of running.cfg done. 124100 bytes in 8 secs.(15 KB/sec)
+Mar 14, 2006 16:54:11 Session 16, Peer 192.168.4.4 TFTP Server session started
+Mar 14, 2006 16:54:11 Session 16, Peer 192.168.4.4 Client requests GET of file E:\ftp\runnin.cfg.
+Mar 14, 2006 16:54:23 Session 16, Peer 192.168.4.4 Send of runnin.cfg done. 124100 bytes in 12 secs.(10 KB/sec)
+Jul 12, 2006 10:09:09 Session 1, Peer 192.168.1.102 TFTP Server session started
+Jul 12, 2006 10:09:09 Session 1, Peer 192.168.1.102 Client requests PUT of file E:\ftp\kernel.z.
+Jul 12, 2006 10:10:04 Session 1, Peer 192.168.1.102 Rcv of kernel.z done. 832735 bytes in 55 secs.(14 KB/sec)
+Jul 12, 2006 10:13:03 Session 2, Peer 192.168.1.102 TFTP Server session started
+Jul 12, 2006 10:13:03 Session 2, Peer 192.168.1.102 Client requests GET of file E:\ftp\kernel.z.
+Jul 12, 2006 10:13:03 Session 3, Peer 192.168.1.102 TFTP Server session started
+Jul 12, 2006 10:13:03 Session 3, Peer 192.168.1.102 Unknown request code.
+Jul 12, 2006 10:13:03 Session 3, Peer 192.168.1.102 Unknown request code.
+Jul 12, 2006 10:13:08 Session 2, Peer 192.168.1.102 Retry. Block = 1. Retries left = 9
+Jul 12, 2006 10:13:08 Session 2, Peer 192.168.1.102 Got socket error. Aborting! Code = 10054
+Jul 12, 2006 10:24:33 Session 4, Peer 192.168.1.102 TFTP Server session started
+Jul 12, 2006 10:24:33 Session 4, Peer 192.168.1.102 Client requests GET of file E:\ftp\111.txt.
+Jul 12, 2006 10:24:33 Session 4, Peer 192.168.1.102 Send of 111.txt done. 8 bytes in 0 secs.(0 KB/sec)
+Jul 12, 2006 10:26:09 Session 5, Peer 192.168.1.102 TFTP Server session started
+Jul 12, 2006 10:26:09 Session 5, Peer 192.168.1.102 Client requests GET of file E:\ftp\kernel.z.
+Jul 12, 2006 10:26:30 Session 5, Peer 192.168.1.102 Send of kernel.z done. 832735 bytes in 21 secs.(38 KB/sec)
+Jul 12, 2006 10:55:50 Session 1, Peer 192.168.1.101 TFTP Server session started
+Jul 12, 2006 10:55:50 Session 1, Peer 192.168.1.101 Client requests GET of file E:\ftp\kernel.z.
+Jul 12, 2006 10:56:54 Session 1, Peer 192.168.1.101 Send of kernel.z done. 832735 bytes in 64 secs.(12 KB/sec)
+Jul 12, 2006 11:07:39 Session 2, Peer 10.1.1.1 TFTP Server session started
+Jul 12, 2006 11:07:39 Session 2, Peer 10.1.1.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 12, 2006 11:07:59 Session 2, Peer 10.1.1.1 Send of kernel.z done. 832735 bytes in 20 secs.(40 KB/sec)
+Jul 12, 2006 11:08:34 Session 3, Peer 10.1.1.1 TFTP Server session started
+Jul 12, 2006 11:08:34 Session 3, Peer 10.1.1.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 12, 2006 11:08:55 Session 3, Peer 10.1.1.1 Send of kernel.z done. 832735 bytes in 21 secs.(38 KB/sec)
+Jul 13, 2006 18:06:10 Session 1, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:06:10 Session 1, Peer 192.168.0.2 Client requests GET of file E:\ftp\111.txt.
+Jul 13, 2006 18:06:10 Session 1, Peer 192.168.0.2 Send of 111.txt done. 8 bytes in 0 secs.(0 KB/sec)
+Jul 13, 2006 18:14:47 Session 2, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:14:47 Session 2, Peer 192.168.0.2 Client requests PUT of file E:\ftp\kernel.z.
+Jul 13, 2006 18:15:27 Session 2, Peer 192.168.0.2 Rcv of kernel.z done. 1116260 bytes in 40 secs.(27 KB/sec)
+Jul 13, 2006 18:25:04 Session 1, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:25:04 Session 1, Peer 192.168.0.2 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 18:27:06 Session 2, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:27:06 Session 2, Peer 192.168.0.2 Unknown request code.
+Jul 13, 2006 18:27:06 Session 2, Peer 192.168.0.2 Unknown request code.
+Jul 13, 2006 18:27:11 Session 1, Peer 192.168.0.2 Retry. Block = 1621. Retries left = 9
+Jul 13, 2006 18:27:11 Session 1, Peer 192.168.0.2 Got socket error. Aborting! Code = 10054
+Jul 13, 2006 18:42:45 Session 1, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:42:45 Session 1, Peer 192.168.0.2 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 18:44:03 Session 1, Peer 192.168.0.2 Send of kernel.z done. 1116260 bytes in 78 secs.(13 KB/sec)
+Jul 13, 2006 18:48:34 Session 1, Peer 192.168.0.2 TFTP Server session started
+Jul 13, 2006 18:48:34 Session 1, Peer 192.168.0.2 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 18:48:46 Session 1, Peer 192.168.0.2 Send of kernel.z done. 1116260 bytes in 12 secs.(90 KB/sec)
+Jul 13, 2006 19:00:32 Session 1, Peer 192.168.1.1 TFTP Server session started
+Jul 13, 2006 19:00:32 Session 1, Peer 192.168.1.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 19:01:50 Session 1, Peer 192.168.1.1 Send of kernel.z done. 1116260 bytes in 78 secs.(13 KB/sec)
+Jul 13, 2006 19:06:42 Session 1, Peer 192.168.1.1 TFTP Server session started
+Jul 13, 2006 19:06:42 Session 1, Peer 192.168.1.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 19:06:53 Session 1, Peer 192.168.1.1 Send of kernel.z done. 1116260 bytes in 11 secs.(99 KB/sec)
+Jul 13, 2006 19:12:40 Session 1, Peer 192.168.1.1 TFTP Server session started
+Jul 13, 2006 19:12:40 Session 1, Peer 192.168.1.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 19:12:51 Session 1, Peer 192.168.1.1 Send of kernel.z done. 1116260 bytes in 11 secs.(99 KB/sec)
+Jul 13, 2006 19:23:53 Session 1, Peer 192.168.100.1 TFTP Server session started
+Jul 13, 2006 19:23:53 Session 1, Peer 192.168.100.1 Client requests GET of file E:\ftp\kernel.z.
+Jul 13, 2006 19:25:08 Session 1, Peer 192.168.100.1 Send of kernel.z done. 1116260 bytes in 75 secs.(14 KB/sec)
+Aug 03, 2006 14:30:26 Session 1, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:30:26 Session 1, Peer 110.1.1.2 Client requests PUT of file C:\Documents and Settings\111\桌面\V2.6.02.C10\zxr10.zar.
+Aug 03, 2006 14:31:43 Session 1, Peer 110.1.1.2 Rcv of zxr10.zar done. 4281683 bytes in 77 secs.(54 KB/sec)
+Aug 03, 2006 14:32:43 Session 2, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:32:43 Session 2, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\new.zar.
+Aug 03, 2006 14:34:29 Session 2, Peer 110.1.1.2 Send of new.zar done. 4617773 bytes in 106 secs.(42 KB/sec)
+Aug 03, 2006 14:37:55 Session 3, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:37:55 Session 3, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les2.
+Aug 03, 2006 14:37:55 Session 3, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:37:55 Session 3, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:39:06 Session 4, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:39:06 Session 4, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les2.bin.
+Aug 03, 2006 14:39:06 Session 4, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:39:06 Session 4, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:41:22 Session 1, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:41:22 Session 1, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les2.bin.
+Aug 03, 2006 14:41:22 Session 1, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:41:22 Session 1, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:41:25 Session 2, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 14:41:25 Session 2, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les2.bin.
+Aug 03, 2006 14:41:25 Session 2, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 14:41:25 Session 2, Peer 110.1.1.2 Could not open requested file for reading
+Aug 03, 2006 15:42:34 Session 1, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 15:42:35 Session 1, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\new.zar.
+Aug 03, 2006 15:44:36 Session 1, Peer 110.1.1.2 Send of new.zar done. 4617773 bytes in 121 secs.(37 KB/sec)
+Aug 03, 2006 15:45:56 Session 2, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 15:45:56 Session 2, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les.bin.
+Aug 03, 2006 15:46:05 Session 2, Peer 110.1.1.2 Send of les.bin done. 324336 bytes in 9 secs.(35 KB/sec)
+Aug 03, 2006 17:20:43 Session 1, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:20:43 Session 1, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\new.zar.
+Aug 03, 2006 17:22:52 Session 1, Peer 110.1.1.2 Send of new.zar done. 4617773 bytes in 129 secs.(34 KB/sec)
+Aug 03, 2006 17:23:51 Session 2, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:23:51 Session 2, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les.bin.
+Aug 03, 2006 17:24:01 Session 2, Peer 110.1.1.2 Send of les.bin done. 324336 bytes in 10 secs.(31 KB/sec)
+Aug 03, 2006 17:34:25 Session 3, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:34:25 Session 3, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\new.zar.
+Aug 03, 2006 17:36:34 Session 3, Peer 110.1.1.2 Send of new.zar done. 4617773 bytes in 129 secs.(34 KB/sec)
+Aug 03, 2006 17:36:53 Session 4, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:36:53 Session 4, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les.bin.
+Aug 03, 2006 17:37:03 Session 4, Peer 110.1.1.2 Send of les.bin done. 324336 bytes in 10 secs.(31 KB/sec)
+Aug 03, 2006 17:37:51 Session 5, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:37:51 Session 5, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les.bin.
+Aug 03, 2006 17:38:00 Session 5, Peer 110.1.1.2 Send of les.bin done. 324336 bytes in 9 secs.(35 KB/sec)
+Aug 03, 2006 17:45:08 Session 6, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:45:08 Session 6, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\new.zar.
+Aug 03, 2006 17:47:16 Session 6, Peer 110.1.1.2 Send of new.zar done. 4617773 bytes in 128 secs.(35 KB/sec)
+Aug 03, 2006 17:48:16 Session 7, Peer 110.1.1.2 TFTP Server session started
+Aug 03, 2006 17:48:16 Session 7, Peer 110.1.1.2 Client requests GET of file C:\Documents and Settings\111\桌面\V2.6.02.C10\les.bin.
+Aug 03, 2006 17:48:24 Session 7, Peer 110.1.1.2 Send of les.bin done. 324336 bytes in 8 secs.(39 KB/sec)
+Aug 21, 2006 10:35:48 Session 1, Peer 10.192.2.77 TFTP Server session started
+Aug 21, 2006 10:35:48 Session 1, Peer 10.192.2.77 Client requests PUT of file C:\Documents and Settings\111\桌面\zxr.zar.
+Aug 21, 2006 10:37:40 Session 1, Peer 10.192.2.77 Rcv of zxr.zar done. 4617773 bytes in 112 secs.(40 KB/sec)
+Aug 21, 2006 10:39:34 Session 2, Peer 10.192.2.77 TFTP Server session started
+Aug 21, 2006 10:39:34 Session 2, Peer 10.192.2.77 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Aug 21, 2006 10:39:34 Session 2, Peer 10.192.2.77 Rcv of startrun.dat done. 7526 bytes in 0 secs.(7 KB/sec)
+Aug 21, 2006 10:40:56 Session 3, Peer 10.192.2.77 TFTP Server session started
+Aug 21, 2006 10:40:56 Session 3, Peer 10.192.2.77 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.zar.
+Aug 21, 2006 10:43:08 Session 3, Peer 10.192.2.77 Send of zxr10.zar done. 4455015 bytes in 132 secs.(32 KB/sec)
+Sep 08, 2006 21:53:17 Session 1, Peer 132.101.113.42 TFTP Server session started
+Sep 08, 2006 21:53:17 Session 1, Peer 132.101.113.42 Client requests PUT of file C:\Documents and Settings\111\桌面\zxr10.zar.
+Sep 08, 2006 21:55:07 Session 1, Peer 132.101.113.42 Rcv of zxr10.zar done. 4299937 bytes in 110 secs.(38 KB/sec)
+Sep 08, 2006 21:58:20 Session 2, Peer 132.101.113.42 TFTP Server session started
+Sep 08, 2006 21:58:20 Session 2, Peer 132.101.113.42 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 08, 2006 22:00:38 Session 2, Peer 132.101.113.42 Send of zxr10.new done. 4617829 bytes in 138 secs.(32 KB/sec)
+Sep 08, 2006 22:01:14 Session 3, Peer 132.101.113.43 TFTP Server session started
+Sep 08, 2006 22:01:14 Session 3, Peer 132.101.113.43 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 08, 2006 22:01:19 Session 3, Peer 132.101.113.43 Retry. Block = 2. Retries left = 9
+Sep 08, 2006 22:02:25 Session 3, Peer 132.101.113.43 Retry. Block = 4016. Retries left = 9
+Sep 08, 2006 22:02:58 Session 4, Peer 132.101.113.42 TFTP Server session started
+Sep 08, 2006 22:02:58 Session 4, Peer 132.101.113.42 Client requests GET of file C:\Documents and Settings\111\桌面\les.bin.
+Sep 08, 2006 22:03:12 Session 4, Peer 132.101.113.42 Retry. Block = 522. Retries left = 9
+Sep 08, 2006 22:03:14 Session 4, Peer 132.101.113.42 Send of les.bin done. 323936 bytes in 16 secs.(19 KB/sec)
+Sep 08, 2006 22:03:41 Session 3, Peer 132.101.113.43 Send of zxr10.new done. 4617829 bytes in 147 secs.(30 KB/sec)
+Sep 08, 2006 22:04:34 Session 5, Peer 132.101.193.41 TFTP Server session started
+Sep 08, 2006 22:04:34 Session 5, Peer 132.101.193.41 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 08, 2006 22:06:44 Session 5, Peer 132.101.193.41 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 08, 2006 22:07:06 Session 6, Peer 132.101.193.42 TFTP Server session started
+Sep 08, 2006 22:07:06 Session 6, Peer 132.101.193.42 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 08, 2006 22:09:16 Session 6, Peer 132.101.193.42 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 08, 2006 22:09:44 Session 7, Peer 132.101.113.43 TFTP Server session started
+Sep 08, 2006 22:09:44 Session 7, Peer 132.101.113.43 Client requests GET of file C:\Documents and Settings\111\桌面\les.bin.
+Sep 08, 2006 22:09:49 Session 7, Peer 132.101.113.43 Retry. Block = 2. Retries left = 9
+Sep 08, 2006 22:10:00 Session 7, Peer 132.101.113.43 Send of les.bin done. 323936 bytes in 16 secs.(19 KB/sec)
+Sep 08, 2006 22:10:09 Session 8, Peer 132.101.193.41 TFTP Server session started
+Sep 08, 2006 22:10:09 Session 8, Peer 132.101.193.41 Client requests GET of file C:\Documents and Settings\111\桌面\les.bin.
+Sep 08, 2006 22:10:19 Session 8, Peer 132.101.193.41 Send of les.bin done. 323936 bytes in 10 secs.(31 KB/sec)
+Sep 08, 2006 22:10:25 Session 9, Peer 132.101.193.42 TFTP Server session started
+Sep 08, 2006 22:10:25 Session 9, Peer 132.101.193.42 Client requests GET of file C:\Documents and Settings\111\桌面\les.bin.
+Sep 08, 2006 22:10:35 Session 9, Peer 132.101.193.42 Send of les.bin done. 323936 bytes in 10 secs.(31 KB/sec)
+Sep 08, 2006 23:27:08 Session 1, Peer 132.101.193.41 TFTP Server session started
+Sep 08, 2006 23:27:09 Session 1, Peer 132.101.193.41 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Sep 08, 2006 23:27:09 Session 1, Peer 132.101.193.41 Rcv of startrun.dat done. 9332 bytes in 0 secs.(9 KB/sec)
+Sep 08, 2006 23:27:48 Session 2, Peer 132.101.193.42 TFTP Server session started
+Sep 08, 2006 23:27:48 Session 2, Peer 132.101.193.42 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Sep 08, 2006 23:27:49 Session 2, Peer 132.101.193.42 Rcv of startrun.dat done. 9302 bytes in 1 secs.(9 KB/sec)
+Sep 09, 2006 00:24:59 Session 3, Peer 132.101.193.46 TFTP Server session started
+Sep 09, 2006 00:24:59 Session 3, Peer 132.101.193.46 Client requests PUT of file C:\Documents and Settings\111\桌面\les1.bin.
+Sep 09, 2006 00:25:06 Session 3, Peer 132.101.193.46 Rcv of les1.bin done. 324080 bytes in 7 secs.(45 KB/sec)
+Sep 09, 2006 00:26:03 Session 4, Peer 132.101.193.42 TFTP Server session started
+Sep 09, 2006 00:26:03 Session 4, Peer 132.101.193.42 Client requests GET of file C:\Documents and Settings\111\桌面\les.bin.
+Sep 09, 2006 00:26:13 Session 4, Peer 132.101.193.42 Send of les.bin done. 324080 bytes in 10 secs.(31 KB/sec)
+Sep 09, 2006 00:35:53 Session 5, Peer 132.101.113.42 TFTP Server session started
+Sep 09, 2006 00:35:53 Session 5, Peer 132.101.113.42 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Sep 09, 2006 00:35:53 Session 5, Peer 132.101.113.42 Rcv of startrun.dat done. 9327 bytes in 0 secs.(9 KB/sec)
+Sep 09, 2006 00:36:29 Session 6, Peer 132.101.113.43 TFTP Server session started
+Sep 09, 2006 00:36:29 Session 6, Peer 132.101.113.43 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Sep 09, 2006 00:36:32 Session 7, Peer 132.101.113.43 TFTP Server session started
+Sep 09, 2006 00:36:32 Session 7, Peer 132.101.113.43 Client requests PUT of file C:\Documents and Settings\111\桌面\startrun.dat.
+Sep 09, 2006 00:36:32 Session 7, Peer 132.101.113.43 Rcv of startrun.dat done. 9215 bytes in 0 secs.(8 KB/sec)
+Sep 09, 2006 00:36:34 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 9
+Sep 09, 2006 00:36:39 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 8
+Sep 09, 2006 00:36:44 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 7
+Sep 09, 2006 00:36:49 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 6
+Sep 09, 2006 00:36:54 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 5
+Sep 09, 2006 00:36:59 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 4
+Sep 09, 2006 00:37:04 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 3
+Sep 09, 2006 00:37:09 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 2
+Sep 09, 2006 00:37:14 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 1
+Sep 09, 2006 00:37:19 Session 6, Peer 132.101.113.43 Retry. Block = 0. Retries left = 0
+Sep 09, 2006 00:37:24 Session 6, Peer 132.101.113.43 startrun.dat: No more retries left. Aborting.
+Sep 09, 2006 00:54:11 Session 8, Peer 132.101.193.46 TFTP Server session started
+Sep 09, 2006 00:54:11 Session 8, Peer 132.101.193.46 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 09, 2006 00:56:21 Session 8, Peer 132.101.193.46 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 09, 2006 00:59:22 Session 9, Peer 132.101.193.47 TFTP Server session started
+Sep 09, 2006 00:59:22 Session 9, Peer 132.101.193.47 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 09, 2006 01:01:30 Session 9, Peer 132.101.193.47 Send of zxr10.new done. 4617829 bytes in 128 secs.(35 KB/sec)
+Sep 09, 2006 01:05:09 Session 10, Peer 132.101.113.47 TFTP Server session started
+Sep 09, 2006 01:05:09 Session 10, Peer 132.101.113.47 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 09, 2006 01:07:23 Session 10, Peer 132.101.113.47 Send of zxr10.new done. 4617829 bytes in 134 secs.(33 KB/sec)
+Sep 09, 2006 01:11:48 Session 11, Peer 132.101.113.48 TFTP Server session started
+Sep 09, 2006 01:11:48 Session 11, Peer 132.101.113.48 Client requests GET of file C:\Documents and Settings\111\桌面\zxr10.new.
+Sep 09, 2006 01:14:03 Session 11, Peer 132.101.113.48 Send of zxr10.new done. 4617829 bytes in 135 secs.(33 KB/sec)
+Sep 13, 2006 10:38:09 Session 1, Peer 132.118.37.11 TFTP Server session started
+Sep 13, 2006 10:38:09 Session 1, Peer 132.118.37.11 Client requests PUT of file C:\Documents and Settings\111\桌面\版本\zxr10.zar.
+Sep 13, 2006 10:39:48 Session 1, Peer 132.118.37.11 Rcv of zxr10.zar done. 4299937 bytes in 99 secs.(42 KB/sec)
+Sep 13, 2006 10:40:45 Session 2, Peer 132.118.37.11 TFTP Server session started
+Sep 13, 2006 10:40:45 Session 2, Peer 132.118.37.11 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 10:42:54 Session 2, Peer 132.118.37.11 Send of zxr10.new done. 4617829 bytes in 129 secs.(34 KB/sec)
+Sep 13, 2006 10:44:16 Session 3, Peer 132.118.37.12 TFTP Server session started
+Sep 13, 2006 10:44:16 Session 3, Peer 132.118.37.12 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 10:46:26 Session 3, Peer 132.118.37.12 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 13, 2006 10:49:28 Session 4, Peer 132.118.37.142 TFTP Server session started
+Sep 13, 2006 10:49:28 Session 4, Peer 132.118.37.142 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 10:51:42 Session 4, Peer 132.118.37.142 Send of zxr10.new done. 4617829 bytes in 134 secs.(33 KB/sec)
+Sep 13, 2006 10:51:57 Session 5, Peer 132.118.37.143 TFTP Server session started
+Sep 13, 2006 10:51:57 Session 5, Peer 132.118.37.143 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 10:52:02 Session 5, Peer 132.118.37.143 Retry. Block = 2. Retries left = 9
+Sep 13, 2006 10:54:16 Session 5, Peer 132.118.37.143 Send of zxr10.new done. 4617829 bytes in 139 secs.(32 KB/sec)
+Sep 13, 2006 10:55:09 Session 6, Peer 132.118.37.11 TFTP Server session started
+Sep 13, 2006 10:55:09 Session 6, Peer 132.118.37.11 Client requests PUT of file C:\Documents and Settings\111\桌面\版本\startrun.dat.
+Sep 13, 2006 10:55:09 Session 6, Peer 132.118.37.11 Rcv of startrun.dat done. 9141 bytes in 0 secs.(8 KB/sec)
+Sep 13, 2006 10:59:26 Session 7, Peer 132.118.37.12 TFTP Server session started
+Sep 13, 2006 10:59:26 Session 7, Peer 132.118.37.12 Client requests PUT of file C:\Documents and Settings\111\桌面\版本\startrun.dat.
+Sep 13, 2006 10:59:26 Session 7, Peer 132.118.37.12 Rcv of startrun.dat done. 8945 bytes in 0 secs.(8 KB/sec)
+Sep 13, 2006 10:59:53 Session 8, Peer 132.118.37.142 TFTP Server session started
+Sep 13, 2006 10:59:53 Session 8, Peer 132.118.37.142 Client requests PUT of file C:\Documents and Settings\111\桌面\版本\startrun.dat.
+Sep 13, 2006 10:59:53 Session 8, Peer 132.118.37.142 Rcv of startrun.dat done. 8807 bytes in 0 secs.(8 KB/sec)
+Sep 13, 2006 11:00:16 Session 9, Peer 132.118.37.143 TFTP Server session started
+Sep 13, 2006 11:00:16 Session 9, Peer 132.118.37.143 Client requests PUT of file C:\Documents and Settings\111\桌面\版本\startrun.dat.
+Sep 13, 2006 11:00:16 Session 9, Peer 132.118.37.143 Rcv of startrun.dat done. 8808 bytes in 0 secs.(8 KB/sec)
+Sep 13, 2006 11:21:17 Session 10, Peer 132.118.37.16 TFTP Server session started
+Sep 13, 2006 11:21:17 Session 10, Peer 132.118.37.16 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 11:23:25 Session 10, Peer 132.118.37.16 Send of zxr10.new done. 4617829 bytes in 128 secs.(35 KB/sec)
+Sep 13, 2006 11:24:09 Session 11, Peer 132.118.37.17 TFTP Server session started
+Sep 13, 2006 11:24:09 Session 11, Peer 132.118.37.17 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 11:26:19 Session 11, Peer 132.118.37.17 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 13, 2006 11:27:43 Session 12, Peer 132.118.37.147 TFTP Server session started
+Sep 13, 2006 11:27:43 Session 12, Peer 132.118.37.147 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 11:29:56 Session 12, Peer 132.118.37.147 Send of zxr10.new done. 4617829 bytes in 133 secs.(33 KB/sec)
+Sep 13, 2006 11:31:55 Session 13, Peer 132.118.37.148 TFTP Server session started
+Sep 13, 2006 11:31:55 Session 13, Peer 132.118.37.148 Client requests GET of file C:\Documents and Settings\111\桌面\版本\zxr10.new.
+Sep 13, 2006 11:34:08 Session 13, Peer 132.118.37.148 Send of zxr10.new done. 4617829 bytes in 133 secs.(33 KB/sec)
+Sep 15, 2006 02:57:16 Session 1, Peer 132.118.37.13 TFTP Server session started
+Sep 15, 2006 02:57:16 Session 1, Peer 132.118.37.13 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-T128.dat.
+Sep 15, 2006 02:57:17 Session 1, Peer 132.118.37.13 Rcv of CZ-CF-T128.dat done. 10459 bytes in 1 secs.(10 KB/sec)
+Sep 15, 2006 02:57:41 Session 2, Peer 132.118.37.22 TFTP Server session started
+Sep 15, 2006 02:57:41 Session 2, Peer 132.118.37.22 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-T64G-1.dat.
+Sep 15, 2006 02:57:41 Session 2, Peer 132.118.37.22 Rcv of CZ-CF-T64G-1.dat done. 13719 bytes in 0 secs.(13 KB/sec)
+Sep 15, 2006 02:58:18 Session 3, Peer 132.118.37.23 TFTP Server session started
+Sep 15, 2006 02:58:18 Session 3, Peer 132.118.37.23 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-T64G-2.dat.
+Sep 15, 2006 02:58:18 Session 3, Peer 132.118.37.23 Rcv of CZ-CF-T64G-2.dat done. 13445 bytes in 0 secs.(13 KB/sec)
+Sep 15, 2006 02:58:38 Session 4, Peer 132.118.37.11 TFTP Server session started
+Sep 15, 2006 02:58:38 Session 4, Peer 132.118.37.11 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-3952-1.dat.
+Sep 15, 2006 02:58:38 Session 4, Peer 132.118.37.11 Rcv of CZ-CF-3952-1.dat done. 9354 bytes in 0 secs.(9 KB/sec)
+Sep 15, 2006 02:59:00 Session 5, Peer 132.118.37.12 TFTP Server session started
+Sep 15, 2006 02:59:00 Session 5, Peer 132.118.37.12 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-3952-2.dat.
+Sep 15, 2006 02:59:00 Session 5, Peer 132.118.37.12 Rcv of CZ-CF-3952-2.dat done. 9165 bytes in 0 secs.(8 KB/sec)
+Sep 15, 2006 02:59:18 Session 6, Peer 132.118.37.16 TFTP Server session started
+Sep 15, 2006 02:59:18 Session 6, Peer 132.118.37.16 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-3952-3.dat.
+Sep 15, 2006 02:59:18 Session 6, Peer 132.118.37.16 Rcv of CZ-CF-3952-3.dat done. 7004 bytes in 0 secs.(6 KB/sec)
+Sep 15, 2006 02:59:40 Session 7, Peer 132.118.37.17 TFTP Server session started
+Sep 15, 2006 02:59:40 Session 7, Peer 132.118.37.17 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-CF-3952-4.dat.
+Sep 15, 2006 02:59:41 Session 7, Peer 132.118.37.17 Rcv of CZ-CF-3952-4.dat done. 6940 bytes in 1 secs.(6 KB/sec)
+Sep 15, 2006 03:02:46 Session 8, Peer 132.118.37.144 TFTP Server session started
+Sep 15, 2006 03:02:46 Session 8, Peer 132.118.37.144 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-T128.dat.
+Sep 15, 2006 03:02:46 Session 8, Peer 132.118.37.144 Rcv of CZ-FC-T128.dat done. 10468 bytes in 0 secs.(10 KB/sec)
+Sep 15, 2006 03:03:03 Session 9, Peer 132.118.37.149 TFTP Server session started
+Sep 15, 2006 03:03:03 Session 9, Peer 132.118.37.149 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-T64G-1.dat.
+Sep 15, 2006 03:03:03 Session 9, Peer 132.118.37.149 Rcv of CZ-FC-T64G-1.dat done. 13197 bytes in 0 secs.(12 KB/sec)
+Sep 15, 2006 03:03:19 Session 10, Peer 132.118.37.150 TFTP Server session started
+Sep 15, 2006 03:03:19 Session 10, Peer 132.118.37.150 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-T64G-2.dat.
+Sep 15, 2006 03:03:20 Session 10, Peer 132.118.37.150 Rcv of CZ-FC-T64G-2.dat done. 13294 bytes in 1 secs.(12 KB/sec)
+Sep 15, 2006 03:03:37 Session 11, Peer 132.118.37.142 TFTP Server session started
+Sep 15, 2006 03:03:37 Session 11, Peer 132.118.37.142 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-3952-1.dat.
+Sep 15, 2006 03:03:37 Session 11, Peer 132.118.37.142 Rcv of CZ-FC-3952-1.dat done. 9113 bytes in 0 secs.(8 KB/sec)
+Sep 15, 2006 03:03:52 Session 12, Peer 132.118.37.143 TFTP Server session started
+Sep 15, 2006 03:03:52 Session 12, Peer 132.118.37.143 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-3952-2.dat.
+Sep 15, 2006 03:03:52 Session 12, Peer 132.118.37.143 Rcv of CZ-FC-3952-2.dat done. 9132 bytes in 0 secs.(8 KB/sec)
+Sep 15, 2006 03:04:10 Session 13, Peer 132.118.37.147 TFTP Server session started
+Sep 15, 2006 03:04:10 Session 13, Peer 132.118.37.147 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-3952-3.dat.
+Sep 15, 2006 03:04:10 Session 13, Peer 132.118.37.147 Rcv of CZ-FC-3952-3.dat done. 6942 bytes in 0 secs.(6 KB/sec)
+Sep 15, 2006 03:04:28 Session 14, Peer 132.118.37.148 TFTP Server session started
+Sep 15, 2006 03:04:28 Session 14, Peer 132.118.37.148 Client requests PUT of file C:\Documents and Settings\111\桌面\CZ-FC-3952-4.dat.
+Sep 15, 2006 03:04:28 Session 14, Peer 132.118.37.148 Rcv of CZ-FC-3952-4.dat done. 6942 bytes in 0 secs.(6 KB/sec)
+Sep 19, 2006 23:56:30 Session 1, Peer 10.42.9.233 TFTP Server session started
+Sep 19, 2006 23:56:30 Session 1, Peer 10.42.9.233 Client requests GET of file C:\Documents and Settings\1\桌面\zxr10.new.
+Sep 19, 2006 23:57:35 Session 1, Peer 10.42.9.233 Retry. Block = 4612. Retries left = 9
+Sep 19, 2006 23:58:34 Session 1, Peer 10.42.9.233 Send of zxr10.new done. 4617829 bytes in 124 secs.(36 KB/sec)
+Sep 19, 2006 23:58:52 Session 2, Peer 10.42.9.233 TFTP Server session started
+Sep 19, 2006 23:58:52 Session 2, Peer 10.42.9.233 Client requests GET of file C:\Documents and Settings\1\桌面\zxr10.new.
+Sep 20, 2006 00:00:52 Session 2, Peer 10.42.9.233 Send of zxr10.new done. 4617829 bytes in 120 secs.(37 KB/sec)
+Sep 20, 2006 00:01:20 Session 3, Peer 10.42.9.233 TFTP Server session started
+Sep 20, 2006 00:01:20 Session 3, Peer 10.42.9.233 Client requests GET of file C:\Documents and Settings\1\桌面\les.bin.
+Sep 20, 2006 00:01:28 Session 3, Peer 10.42.9.233 Send of les.bin done. 324080 bytes in 8 secs.(39 KB/sec)
+Sep 20, 2006 00:03:24 Session 4, Peer 10.42.9.238 TFTP Server session started
+Sep 20, 2006 00:03:24 Session 4, Peer 10.42.9.238 Client requests GET of file C:\Documents and Settings\1\桌面\zxr10.new.
+Sep 20, 2006 00:05:11 Session 4, Peer 10.42.9.238 Send of zxr10.new done. 4617829 bytes in 107 secs.(42 KB/sec)
+Sep 20, 2006 00:05:34 Session 5, Peer 10.42.9.238 TFTP Server session started
+Sep 20, 2006 00:05:34 Session 5, Peer 10.42.9.238 Client requests GET of file C:\Documents and Settings\1\桌面\les.bin.
+Sep 20, 2006 00:05:42 Session 5, Peer 10.42.9.238 Send of les.bin done. 324080 bytes in 8 secs.(39 KB/sec)
+Sep 20, 2006 02:24:57 Session 1, Peer 10.42.9.233 TFTP Server session started
+Sep 20, 2006 02:24:57 Session 1, Peer 10.42.9.233 Client requests PUT of file C:\Documents and Settings\1\桌面\JCX3952-1.dat.
+Sep 20, 2006 02:24:57 Session 1, Peer 10.42.9.233 Rcv of JCX3952-1.dat done. 10209 bytes in 0 secs.(9 KB/sec)
+Sep 20, 2006 02:25:17 Session 2, Peer 10.42.9.238 TFTP Server session started
+Sep 20, 2006 02:25:17 Session 2, Peer 10.42.9.238 Client requests PUT of file C:\Documents and Settings\1\桌面\JCX3952-2.dat.
+Sep 20, 2006 02:25:17 Session 2, Peer 10.42.9.238 Rcv of JCX3952-2.dat done. 9945 bytes in 0 secs.(9 KB/sec)
+Sep 22, 2006 23:05:37 Session 1, Peer 10.42.10.246 TFTP Server session started
+Sep 22, 2006 23:05:37 Session 1, Peer 10.42.10.246 Client requests GET of file C:\Documents and Settings\1\桌面\zxr10.new.
+Sep 22, 2006 23:06:44 Session 1, Peer 10.42.10.246 Retry. Block = 4544. Retries left = 9
+Sep 22, 2006 23:07:47 Session 1, Peer 10.42.10.246 Send of zxr10.new done. 4617829 bytes in 130 secs.(34 KB/sec)
+Sep 22, 2006 23:08:36 Session 2, Peer 10.42.10.234 TFTP Server session started
+Sep 22, 2006 23:08:36 Session 2, Peer 10.42.10.234 Client requests GET of file C:\Documents and Settings\1\桌面\zxr10.new.
+Sep 22, 2006 23:10:37 Session 2, Peer 10.42.10.234 Send of zxr10.new done. 4617829 bytes in 121 secs.(37 KB/sec)
+Sep 23, 2006 01:54:28 Session 1, Peer 10.42.18.217 TFTP Server session started
+Sep 23, 2006 01:54:28 Session 1, Peer 10.42.18.217 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\DSDTG4-1.dat.
+Sep 23, 2006 01:54:28 Session 1, Peer 10.42.18.217 Rcv of DSDTG4-1.dat done. 13950 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:54:45 Session 2, Peer 10.42.18.254 TFTP Server session started
+Sep 23, 2006 01:54:45 Session 2, Peer 10.42.18.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\DSDTG4-2.dat.
+Sep 23, 2006 01:54:45 Session 2, Peer 10.42.18.254 Rcv of DSDTG4-2.dat done. 14106 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:55:05 Session 3, Peer 10.42.14.221 TFTP Server session started
+Sep 23, 2006 01:55:05 Session 3, Peer 10.42.14.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\GYXTG2-1.dat.
+Sep 23, 2006 01:55:06 Session 3, Peer 10.42.14.221 Rcv of GYXTG2-1.dat done. 14174 bytes in 1 secs.(13 KB/sec)
+Sep 23, 2006 01:55:25 Session 4, Peer 10.42.14.254 TFTP Server session started
+Sep 23, 2006 01:55:25 Session 4, Peer 10.42.14.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\GYXTG2-2.dat.
+Sep 23, 2006 01:55:25 Session 4, Peer 10.42.14.254 Rcv of GYXTG2-2.dat done. 14213 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:55:51 Session 5, Peer 10.42.16.221 TFTP Server session started
+Sep 23, 2006 01:55:51 Session 5, Peer 10.42.16.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\JCXTG3-1.dat.
+Sep 23, 2006 01:55:51 Session 5, Peer 10.42.16.221 Rcv of JCXTG3-1.dat done. 14072 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:56:01 Session 6, Peer 10.42.16.254 TFTP Server session started
+Sep 23, 2006 01:56:01 Session 6, Peer 10.42.16.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\JCXTG3-2.dat.
+Sep 23, 2006 01:56:01 Session 6, Peer 10.42.16.254 Rcv of JCXTG3-2.dat done. 14112 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:56:20 Session 7, Peer 10.42.12.221 TFTP Server session started
+Sep 23, 2006 01:56:20 Session 7, Peer 10.42.12.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\KCTG1-1.dat.
+Sep 23, 2006 01:56:20 Session 7, Peer 10.42.12.221 Rcv of KCTG1-1.dat done. 14049 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:56:30 Session 8, Peer 10.42.12.254 TFTP Server session started
+Sep 23, 2006 01:56:30 Session 8, Peer 10.42.12.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\KCTG1-2.dat.
+Sep 23, 2006 01:56:30 Session 8, Peer 10.42.12.254 Rcv of KCTG1-2.dat done. 14062 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:57:07 Session 9, Peer 10.42.24.221 TFTP Server session started
+Sep 23, 2006 01:57:07 Session 9, Peer 10.42.24.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\NCTG7-1.dat.
+Sep 23, 2006 01:57:07 Session 9, Peer 10.42.24.221 Rcv of NCTG7-1.dat done. 14017 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:57:17 Session 10, Peer 10.42.24.254 TFTP Server session started
+Sep 23, 2006 01:57:17 Session 10, Peer 10.42.24.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\NCTG7-2.dat.
+Sep 23, 2006 01:57:17 Session 10, Peer 10.42.24.254 Rcv of NCTG7-2.dat done. 14096 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:57:33 Session 11, Peer 10.42.26.221 TFTP Server session started
+Sep 23, 2006 01:57:33 Session 11, Peer 10.42.26.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\SJiTG8-1.dat.
+Sep 23, 2006 01:57:33 Session 11, Peer 10.42.26.221 Rcv of SJiTG8-1.dat done. 14187 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:57:44 Session 12, Peer 10.42.26.254 TFTP Server session started
+Sep 23, 2006 01:57:44 Session 12, Peer 10.42.26.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\SJiTG8-2.dat.
+Sep 23, 2006 01:57:44 Session 12, Peer 10.42.26.254 Rcv of SJiTG8-2.dat done. 14085 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:58:10 Session 13, Peer 10.42.22.221 TFTP Server session started
+Sep 23, 2006 01:58:10 Session 13, Peer 10.42.22.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\SJTG6-1.dat.
+Sep 23, 2006 01:58:10 Session 13, Peer 10.42.22.221 Rcv of SJTG6-1.dat done. 13758 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:58:23 Session 14, Peer 10.42.22.254 TFTP Server session started
+Sep 23, 2006 01:58:23 Session 14, Peer 10.42.22.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\SJTG6-2.dat.
+Sep 23, 2006 01:58:23 Session 14, Peer 10.42.22.254 Rcv of SJTG6-2.dat done. 13656 bytes in 0 secs.(13 KB/sec)
+Sep 23, 2006 01:58:40 Session 15, Peer 10.42.20.221 TFTP Server session started
+Sep 23, 2006 01:58:40 Session 15, Peer 10.42.20.221 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\YGTG5-1.dat.
+Sep 23, 2006 01:58:40 Session 15, Peer 10.42.20.221 Rcv of YGTG5-1.dat done. 14402 bytes in 0 secs.(14 KB/sec)
+Sep 23, 2006 01:58:51 Session 16, Peer 10.42.20.254 TFTP Server session started
+Sep 23, 2006 01:58:51 Session 16, Peer 10.42.20.254 Client requests PUT of file C:\Documents and Settings\1\桌面\peizhi\YGTG5-2.dat.
+Sep 23, 2006 01:58:51 Session 16, Peer 10.42.20.254 Rcv of YGTG5-2.dat done. 13990 bytes in 0 secs.(13 KB/sec)
+Dec 05, 2006 09:02:07 Session 1, Peer 192.168.200.1 TFTP Server session started
+Dec 05, 2006 09:02:07 Session 1, Peer 192.168.200.1 Client requests GET of file C:\Documents and Settings\Administrator\桌面\zxr10.new.
+Dec 05, 2006 09:04:26 Session 1, Peer 192.168.200.1 Send of zxr10.new done. 4721625 bytes in 139 secs.(33 KB/sec)
+Dec 05, 2006 09:05:14 Session 2, Peer 192.168.200.1 TFTP Server session started
+Dec 05, 2006 09:05:14 Session 2, Peer 192.168.200.1 Client requests GET of file C:\Documents and Settings\Administrator\桌面\les.bin.
+Dec 05, 2006 09:05:24 Session 2, Peer 192.168.200.1 Send of les.bin done. 324320 bytes in 10 secs.(31 KB/sec)
+Jan 23, 2007 11:47:44 Session 1, Peer 192.168.100.2 TFTP Server session started
+Jan 23, 2007 11:47:44 Session 1, Peer 192.168.100.2 Client requests GET of file C:\Documents and Settings\11\桌面\zxr10new.zar.
+Jan 23, 2007 11:54:19 Session 1, Peer 192.168.100.2 Send of zxr10new.zar done. 27181279 bytes in 395 secs.(67 KB/sec)
+Jan 31, 2007 15:20:52 Session 1, Peer 10.71.15.100 TFTP Server session started
+Jan 31, 2007 15:20:52 Session 1, Peer 10.71.15.100 Client requests PUT of file C:\Documents and Settings\11\桌面\zxr10.old.
+Jan 31, 2007 15:22:42 Session 1, Peer 10.71.15.100 Rcv of zxr10.old done. 4623519 bytes in 110 secs.(41 KB/sec)
+Jan 31, 2007 15:23:40 Session 2, Peer 10.71.15.100 TFTP Server session started
+Jan 31, 2007 15:23:40 Session 2, Peer 10.71.15.100 Client requests GET of file C:\Documents and Settings\11\桌面\les.bin.
+Jan 31, 2007 15:23:48 Session 2, Peer 10.71.15.100 Send of les.bin done. 324608 bytes in 8 secs.(39 KB/sec)
+Jan 31, 2007 15:25:26 Session 3, Peer 10.71.15.100 TFTP Server session started
+Jan 31, 2007 15:25:26 Session 3, Peer 10.71.15.100 Client requests GET of file C:\Documents and Settings\11\桌面\zxr10.zar.
+Jan 31, 2007 15:27:33 Session 3, Peer 10.71.15.100 Send of zxr10.zar done. 4807209 bytes in 127 secs.(36 KB/sec)
+Jan 31, 2007 15:36:14 Session 4, Peer 10.71.15.97 TFTP Server session started
+Jan 31, 2007 15:36:14 Session 4, Peer 10.71.15.97 Client requests GET of file C:\Documents and Settings\11\桌面\zxr10.zar.
+Jan 31, 2007 15:39:11 Session 4, Peer 10.71.15.97 Send of zxr10.zar done. 15209003 bytes in 177 secs.(83 KB/sec)
+Jan 31, 2007 15:40:30 Session 5, Peer 10.71.15.97 TFTP Server session started
+Jan 31, 2007 15:40:30 Session 5, Peer 10.71.15.97 Client requests GET of file C:\Documents and Settings\11\桌面\mec.bin.
+Jan 31, 2007 15:40:33 Session 5, Peer 10.71.15.97 Send of mec.bin done. 326068 bytes in 3 secs.(106 KB/sec)
+Jan 31, 2007 15:40:42 Session 6, Peer 10.71.15.97 TFTP Server session started
+Jan 31, 2007 15:40:42 Session 6, Peer 10.71.15.97 Client requests GET of file C:\Documents and Settings\11\桌面\nmec.bin.
+Jan 31, 2007 15:40:48 Session 6, Peer 10.71.15.97 Send of nmec.bin done. 524288 bytes in 6 secs.(85 KB/sec)
+Jan 31, 2007 15:41:14 Session 7, Peer 10.71.15.97 TFTP Server session started
+Jan 31, 2007 15:41:14 Session 7, Peer 10.71.15.97 Client requests GET of file C:\Documents and Settings\11\桌面\npc.bin.
+Jan 31, 2007 15:41:17 Session 7, Peer 10.71.15.97 Send of npc.bin done. 254064 bytes in 3 secs.(82 KB/sec)
+Jan 31, 2007 15:49:15 Session 8, Peer 10.71.15.98 TFTP Server session started
+Jan 31, 2007 15:49:15 Session 8, Peer 10.71.15.98 Client requests GET of file C:\Documents and Settings\11\桌面\zxr10.zar.
+Jan 31, 2007 15:52:14 Session 8, Peer 10.71.15.98 Send of zxr10.zar done. 15209003 bytes in 179 secs.(82 KB/sec)
+Jan 31, 2007 15:53:02 Session 9, Peer 10.71.15.98 TFTP Server session started
+Jan 31, 2007 15:53:02 Session 9, Peer 10.71.15.98 Client requests GET of file C:\Documents and Settings\11\桌面\mec.bin.
+Jan 31, 2007 15:53:06 Session 9, Peer 10.71.15.98 Send of mec.bin done. 326068 bytes in 4 secs.(79 KB/sec)
+Jan 31, 2007 15:54:43 Session 10, Peer 10.71.15.98 TFTP Server session started
+Jan 31, 2007 15:54:43 Session 10, Peer 10.71.15.98 Client requests GET of file C:\Documents and Settings\11\桌面\nmec.bin.
+Jan 31, 2007 15:54:49 Session 10, Peer 10.71.15.98 Send of nmec.bin done. 524288 bytes in 6 secs.(85 KB/sec)
+Jan 31, 2007 15:55:02 Session 11, Peer 10.71.15.98 TFTP Server session started
+Jan 31, 2007 15:55:02 Session 11, Peer 10.71.15.98 Client requests GET of file C:\Documents and Settings\11\桌面\npc.bin.
+Jan 31, 2007 15:55:05 Session 11, Peer 10.71.15.98 Send of npc.bin done. 254064 bytes in 3 secs.(82 KB/sec)
+Jan 31, 2007 17:13:53 Session 12, Peer 192.168.100.1 TFTP Server session started
+Jan 31, 2007 17:13:53 Session 12, Peer 192.168.100.1 Client requests PUT of file C:\Documents and Settings\11\桌面\startrun.dat.
+Jan 31, 2007 17:13:53 Session 12, Peer 192.168.100.1 Rcv of startrun.dat done. 17480 bytes in 0 secs.(17 KB/sec)
+Feb 06, 2007 10:07:02 Session 1, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:07:02 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\dashadong.dat.
+Feb 06, 2007 10:07:02 Session 1, Peer 192.168.1.1 Rcv of dashadong.dat done. 13928 bytes in 0 secs.(13 KB/sec)
+Feb 06, 2007 10:10:28 Session 2, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:10:28 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\dashadong1.log.
+Feb 06, 2007 10:10:28 Session 2, Peer 192.168.1.1 Rcv of dashadong1.log done. 10403 bytes in 0 secs.(10 KB/sec)
+Feb 06, 2007 10:13:35 Session 3, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:13:35 Session 3, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\dashadong1.zte.
+Feb 06, 2007 10:13:35 Session 3, Peer 192.168.1.1 Rcv of dashadong1.zte done. 11641 bytes in 0 secs.(11 KB/sec)
+Feb 06, 2007 10:18:06 Session 4, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:18:06 Session 4, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\dashadong2.dat.
+Feb 06, 2007 10:18:06 Session 4, Peer 192.168.1.1 Rcv of dashadong2.dat done. 14084 bytes in 0 secs.(13 KB/sec)
+Feb 06, 2007 10:24:26 Session 5, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:24:26 Session 5, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\log.dat.
+Feb 06, 2007 10:24:26 Session 5, Peer 192.168.1.1 Rcv of log.dat done. 80861 bytes in 0 secs.(78 KB/sec)
+Feb 06, 2007 10:26:49 Session 6, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 10:26:49 Session 6, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\tg.log.
+Feb 06, 2007 10:26:49 Session 6, Peer 192.168.1.1 Rcv of tg.log done. 80861 bytes in 0 secs.(78 KB/sec)
+Feb 06, 2007 14:10:39 Session 1, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 14:10:39 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\kecun2.dat.
+Feb 06, 2007 14:10:39 Session 1, Peer 192.168.1.1 Rcv of kecun2.dat done. 14062 bytes in 0 secs.(13 KB/sec)
+Feb 06, 2007 14:11:53 Session 2, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 14:11:53 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\kecun1.log.
+Feb 06, 2007 14:11:53 Session 2, Peer 192.168.1.1 Rcv of kecun1.log done. 82384 bytes in 0 secs.(80 KB/sec)
+Feb 06, 2007 14:12:39 Session 3, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 14:12:39 Session 3, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\kecun.zte.
+Feb 06, 2007 14:12:39 Session 3, Peer 192.168.1.1 Rcv of kecun.zte done. 11018 bytes in 0 secs.(10 KB/sec)
+Feb 06, 2007 14:16:22 Session 4, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 14:16:22 Session 4, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\kecun1.dat.
+Feb 06, 2007 14:16:22 Session 4, Peer 192.168.1.1 Rcv of kecun1.dat done. 14105 bytes in 0 secs.(13 KB/sec)
+Feb 06, 2007 14:16:58 Session 5, Peer 192.168.1.1 TFTP Server session started
+Feb 06, 2007 14:16:58 Session 5, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\kecun1.log.
+Feb 06, 2007 14:16:59 Session 5, Peer 192.168.1.1 Rcv of kecun1.log done. 88736 bytes in 1 secs.(86 KB/sec)
+Feb 07, 2007 09:44:17 Session 1, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 09:44:17 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\panyu1.dat.
+Feb 07, 2007 09:44:17 Session 1, Peer 192.168.1.1 Rcv of panyu1.dat done. 14017 bytes in 0 secs.(13 KB/sec)
+Feb 07, 2007 09:44:52 Session 2, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 09:44:52 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\panyu1.log.
+Feb 07, 2007 09:44:52 Session 2, Peer 192.168.1.1 Rcv of panyu1.log done. 98543 bytes in 0 secs.(96 KB/sec)
+Feb 07, 2007 09:52:00 Session 3, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 09:52:00 Session 3, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\panyu2.dat.
+Feb 07, 2007 09:52:00 Session 3, Peer 192.168.1.1 Rcv of panyu2.dat done. 14096 bytes in 0 secs.(13 KB/sec)
+Feb 07, 2007 09:53:05 Session 4, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 09:53:05 Session 4, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\panyu2.log.
+Feb 07, 2007 09:53:06 Session 4, Peer 192.168.1.1 Rcv of panyu2.log done. 54710 bytes in 1 secs.(53 KB/sec)
+Feb 07, 2007 13:01:02 Session 1, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 13:01:02 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\shiji1.dat.
+Feb 07, 2007 13:01:02 Session 1, Peer 192.168.1.1 Rcv of shiji1.dat done. 14187 bytes in 0 secs.(13 KB/sec)
+Feb 07, 2007 13:01:23 Session 2, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 13:01:23 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\shiji1.log.
+Feb 07, 2007 13:01:23 Session 2, Peer 192.168.1.1 Rcv of shiji1.log done. 102715 bytes in 0 secs.(100 KB/sec)
+Feb 07, 2007 13:09:55 Session 3, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 13:09:55 Session 3, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\shiji2.dat.
+Feb 07, 2007 13:09:55 Session 3, Peer 192.168.1.1 Rcv of shiji2.dat done. 14085 bytes in 0 secs.(13 KB/sec)
+Feb 07, 2007 13:10:15 Session 4, Peer 192.168.1.1 TFTP Server session started
+Feb 07, 2007 13:10:15 Session 4, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\shiji2.log.
+Feb 07, 2007 13:10:15 Session 4, Peer 192.168.1.1 Rcv of shiji2.log done. 97759 bytes in 0 secs.(95 KB/sec)
+Feb 08, 2007 09:50:17 Session 1, Peer 192.168.1.1 TFTP Server session started
+Feb 08, 2007 09:50:17 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\paoma.dat.
+Feb 08, 2007 09:50:17 Session 1, Peer 192.168.1.1 Rcv of paoma.dat done. 20638 bytes in 0 secs.(20 KB/sec)
+Feb 08, 2007 09:50:40 Session 2, Peer 192.168.1.1 TFTP Server session started
+Feb 08, 2007 09:50:40 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\11\桌面\paoma.log.
+Feb 08, 2007 09:50:41 Session 2, Peer 192.168.1.1 Rcv of paoma.log done. 132224 bytes in 1 secs.(129 KB/sec)
+Mar 29, 2007 15:47:59 Session 1, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:47:59 Session 1, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\001.zte.
+Mar 29, 2007 15:47:59 Session 1, Peer 132.101.113.44 Rcv of 001.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:06 Session 2, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:06 Session 2, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\002.zte.
+Mar 29, 2007 15:48:06 Session 2, Peer 132.101.113.44 Rcv of 002.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:15 Session 3, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:15 Session 3, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\003.zte.
+Mar 29, 2007 15:48:15 Session 3, Peer 132.101.113.44 Rcv of 003.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:22 Session 4, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:22 Session 4, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\004.zte.
+Mar 29, 2007 15:48:22 Session 4, Peer 132.101.113.44 Rcv of 004.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:29 Session 5, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:29 Session 5, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\005.zte.
+Mar 29, 2007 15:48:29 Session 5, Peer 132.101.113.44 Rcv of 005.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:36 Session 6, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:36 Session 6, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\006.zte.
+Mar 29, 2007 15:48:36 Session 6, Peer 132.101.113.44 Rcv of 006.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:45 Session 7, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:45 Session 7, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\007.zte.
+Mar 29, 2007 15:48:45 Session 7, Peer 132.101.113.44 Rcv of 007.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:51 Session 8, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:51 Session 8, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\008.zte.
+Mar 29, 2007 15:48:51 Session 8, Peer 132.101.113.44 Rcv of 008.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:48:59 Session 9, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:48:59 Session 9, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\009.zte.
+Mar 29, 2007 15:48:59 Session 9, Peer 132.101.113.44 Rcv of 009.zte done. 120 bytes in 0 secs.(0 KB/sec)
+Mar 29, 2007 15:50:20 Session 10, Peer 132.101.113.44 TFTP Server session started
+Mar 29, 2007 15:50:20 Session 10, Peer 132.101.113.44 Client requests PUT of file C:\Documents and Settings\yhm\桌面\startrun.dat.
+Mar 29, 2007 15:50:21 Session 10, Peer 132.101.113.44 Rcv of startrun.dat done. 12543 bytes in 1 secs.(12 KB/sec)
+Apr 02, 2007 12:52:55 Session 1, Peer 192.168.1.2 TFTP Server session started
+Apr 02, 2007 12:52:56 Session 1, Peer 192.168.1.2 Client requests GET of file C:\Documents and Settings\yhm\桌面\zxr10.zar.
+Apr 02, 2007 12:55:40 Session 1, Peer 192.168.1.2 Send of zxr10.zar done. 4807209 bytes in 164 secs.(28 KB/sec)
+Apr 05, 2007 14:23:52 Session 1, Peer 192.168.1.1 TFTP Server session started
+Apr 05, 2007 14:23:52 Session 1, Peer 192.168.1.1 Client requests GET of file C:\Documents and Settings\yhm\桌面\kernel.z.
+Apr 05, 2007 14:23:52 Session 1, Peer 192.168.1.1 Could not open requested file for reading
+Apr 05, 2007 14:23:52 Session 1, Peer 192.168.1.1 Could not open requested file for reading
+Apr 05, 2007 14:24:17 Session 2, Peer 192.168.1.1 TFTP Server session started
+Apr 05, 2007 14:24:17 Session 2, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\yhm\桌面\kernel.z.
+Apr 05, 2007 14:24:55 Session 2, Peer 192.168.1.1 Rcv of kernel.z done. 1162808 bytes in 38 secs.(29 KB/sec)
+Apr 05, 2007 14:47:53 Session 3, Peer 10.40.89.106 TFTP Server session started
+Apr 05, 2007 14:47:53 Session 3, Peer 10.40.89.106 Client requests GET of file C:\Documents and Settings\yhm\桌面\kernel.z.
+Apr 05, 2007 14:48:03 Session 3, Peer 10.40.89.106 Send of kernel.z done. 1162808 bytes in 10 secs.(113 KB/sec)
+Apr 05, 2007 23:31:47 Session 1, Peer 132.97.16.28 TFTP Server session started
+Apr 05, 2007 23:31:47 Session 1, Peer 132.97.16.28 Client requests PUT of file C:\Documents and Settings\yhm\桌面\startrun.dat.
+Apr 05, 2007 23:31:48 Session 1, Peer 132.97.16.28 Rcv of startrun.dat done. 9898 bytes in 1 secs.(9 KB/sec)
+Apr 05, 2007 23:32:27 Session 2, Peer 132.97.16.28 TFTP Server session started
+Apr 05, 2007 23:32:27 Session 2, Peer 132.97.16.28 Client requests PUT of file C:\Documents and Settings\yhm\桌面\zxr10.zar.
+Apr 05, 2007 23:32:58 Session 2, Peer 132.97.16.28 Retry. Block = 2582. Retries left = 9
+Apr 05, 2007 23:33:32 Session 2, Peer 132.97.16.28 Retry. Block = 5400. Retries left = 9
+Apr 05, 2007 23:34:08 Session 2, Peer 132.97.16.28 Rcv of zxr10.zar done. 4617829 bytes in 101 secs.(44 KB/sec)
+Apr 05, 2007 23:37:22 Session 3, Peer 132.97.16.28 TFTP Server session started
+Apr 05, 2007 23:37:22 Session 3, Peer 132.97.16.28 Client requests GET of file C:\Documents and Settings\yhm\桌面\zxr10.zar.
+Apr 05, 2007 23:39:14 Session 3, Peer 132.97.16.28 Retry. Block = 8014. Retries left = 9
+Apr 05, 2007 23:39:35 Session 3, Peer 132.97.16.28 Send of zxr10.zar done. 4807209 bytes in 133 secs.(35 KB/sec)
+Apr 05, 2007 23:42:33 Session 4, Peer 132.97.16.29 TFTP Server session started
+Apr 05, 2007 23:42:33 Session 4, Peer 132.97.16.29 Client requests PUT of file C:\Documents and Settings\yhm\桌面\startrun2.dat.
+Apr 05, 2007 23:42:33 Session 4, Peer 132.97.16.29 Rcv of startrun2.dat done. 9960 bytes in 0 secs.(9 KB/sec)
+Apr 05, 2007 23:43:23 Session 5, Peer 132.97.16.29 TFTP Server session started
+Apr 05, 2007 23:43:23 Session 5, Peer 132.97.16.29 Client requests GET of file C:\Documents and Settings\yhm\桌面\zxr10.zar.
+Apr 05, 2007 23:45:18 Session 5, Peer 132.97.16.29 Retry. Block = 7352. Retries left = 9
+Apr 05, 2007 23:45:48 Session 5, Peer 132.97.16.29 Send of zxr10.zar done. 4807209 bytes in 145 secs.(32 KB/sec)
+Apr 06, 2007 14:53:28 Session 1, Peer 192.168.1.1 TFTP Server session started
+Apr 06, 2007 14:53:28 Session 1, Peer 192.168.1.1 Client requests GET of file D:\work\中兴\版本\T128V2BK8P8\zxr10.zar.
+Apr 06, 2007 15:00:38 Session 1, Peer 192.168.1.1 Send of zxr10.zar done. 43724451 bytes in 430 secs.(99 KB/sec)
+Apr 10, 2007 00:24:49 Session 1, Peer 192.168.1.1 TFTP Server session started
+Apr 10, 2007 00:24:49 Session 1, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\yhm\桌面\startrun.dat.
+Apr 10, 2007 00:24:49 Session 1, Peer 192.168.1.1 Rcv of startrun.dat done. 5548 bytes in 0 secs.(5 KB/sec)
+Apr 13, 2007 15:26:22 Session 1, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:26:22 Session 1, Peer 192.168.1.1 Client requests GET of file D:\work\中兴\版本\2826sV1.1.1.K\kernal.z.
+Apr 13, 2007 15:26:22 Session 1, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:26:22 Session 1, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:26:45 Session 2, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:26:45 Session 2, Peer 192.168.1.1 Client requests GET of file D:\work\中兴\版本\2826sV1.1.1.K\kernal.zar.
+Apr 13, 2007 15:26:45 Session 2, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:26:45 Session 2, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:38:41 Session 3, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:38:41 Session 3, Peer 192.168.1.1 Client requests GET of file D:\work\中兴\版本\2826sV1.1.1.K\kernal.zar.
+Apr 13, 2007 15:38:41 Session 3, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:38:41 Session 3, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:39:34 Session 4, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:39:34 Session 4, Peer 192.168.1.1 Client requests GET of file D:\work\中兴\版本\2826sV1.1.1.K\kernel.z.
+Apr 13, 2007 15:39:34 Session 4, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:39:34 Session 4, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:43:40 Session 5, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:43:40 Session 5, Peer 192.168.1.1 Client requests PUT of file C:\Documents and Settings\yhm\桌面\config.txt.
+Apr 13, 2007 15:43:40 Session 5, Peer 192.168.1.1 Rcv of config.txt done. 876 bytes in 0 secs.(0 KB/sec)
+Apr 13, 2007 15:44:06 Session 6, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:44:06 Session 6, Peer 192.168.1.1 Client requests GET of file C:\Documents and Settings\yhm\桌面\kernal.z.
+Apr 13, 2007 15:44:06 Session 6, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:44:06 Session 6, Peer 192.168.1.1 Could not open requested file for reading
+Apr 13, 2007 15:44:11 Session 7, Peer 192.168.1.1 TFTP Server session started
+Apr 13, 2007 15:44:11 Session 7, Peer 192.168.1.1 Client requests GET of file C:\Documents and Settings\yhm\桌面\kernel.z.
+Apr 13, 2007 15:45:27 Session 7, Peer 192.168.1.1 Send of kernel.z done. 1162808 bytes in 76 secs.(14 KB/sec)
+Apr 13, 2007 15:56:16 Session 8, Peer 10.40.89.106 TFTP Server session started
+Apr 13, 2007 15:56:16 Session 8, Peer 10.40.89.106 Client requests GET of file C:\Documents and Settings\yhm\桌面\kernel.z.
+Apr 13, 2007 15:56:27 Session 8, Peer 10.40.89.106 Send of kernel.z done. 1162808 bytes in 11 secs.(103 KB/sec)

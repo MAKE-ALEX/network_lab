@@ -1,0 +1,187 @@
+Feb 14, 2022 18:38:33 Session 2, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:38:33 Session 2, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:38:41 Session 2, Peer 192.168.11.11 USER python
+Feb 14, 2022 18:38:41 Session 2, Peer 192.168.11.11 331 User name ok, need password
+Feb 14, 2022 18:38:41 Session 2, Peer 192.168.11.11 FTP: Login attempt by: python
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 PASS XXXXXXX
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 230 User logged in
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 FTP: Login successful
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 REST 100
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 REST 0
+Feb 14, 2022 18:38:43 Session 2, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 ALLO 706
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 202 Command not implemented on this site
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 PORT 192,168,11,11,224,65
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 200 PORT command successful.
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 STOR 192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 150 File status OK ; about to open data connection
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 Transferring file: F:/pythonProject1/192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 FTP: Transfer was successful
+Feb 14, 2022 18:39:04 Session 2, Peer 192.168.11.11 706 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:39:07 Session 2, Peer 192.168.11.11 QUIT
+Feb 14, 2022 18:39:07 Session 2, Peer 192.168.11.11 221 Service closing control connection
+Feb 14, 2022 18:39:07 Session 2, Peer 192.168.11.11 FTP: Connection closed.
+Feb 14, 2022 18:43:55 Session 3, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:43:55 Session 3, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:43:55 Session 3, Peer 192.168.11.11 USER python
+Feb 14, 2022 18:43:55 Session 3, Peer 192.168.11.11 331 User name ok, need password
+Feb 14, 2022 18:43:55 Session 3, Peer 192.168.11.11 FTP: Login attempt by: python
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 PASS XXXXXXX
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 230 User logged in
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 FTP: Login successful
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 REST 100
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 REST 0
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 TYPE I
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 200 Type set to I.
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 ALLO 706
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 202 Command not implemented on this site
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 PORT 192,168,11,11,245,24
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 200 PORT command successful.
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 STOR 192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 150 File status OK ; about to open data connection
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 Transferring file: F:/pythonProject1/192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 FTP: Transfer was successful
+Feb 14, 2022 18:43:56 Session 3, Peer 192.168.11.11 706 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:43:57 Session 3, Peer 192.168.11.11 QUIT
+Feb 14, 2022 18:43:57 Session 3, Peer 192.168.11.11 221 Service closing control connection
+Feb 14, 2022 18:43:57 Session 3, Peer 192.168.11.11 FTP: Connection closed.
+Feb 14, 2022 18:46:17 Session 4, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:46:17 Session 4, Peer 192.168.11.11 FTP Server session started
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 USER python
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 331 User name ok, need password
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 FTP: Login attempt by: python
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 PASS XXXXXXX
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 230 User logged in
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 FTP: Login successful
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 REST 100
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 REST 0
+Feb 14, 2022 18:46:18 Session 4, Peer 192.168.11.11 350 Requested file action pending further information
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 TYPE I
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 200 Type set to I.
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 ALLO 706
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 202 Command not implemented on this site
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 PORT 192,168,11,11,240,209
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 200 PORT command successful.
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 STOR 192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 150 File status OK ; about to open data connection
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 Transferring file: F:/pythonProject1/192.168.11.11_vrpcfg.zip
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 FTP: Transfer was successful
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 706 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 QUIT
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 221 Service closing control connection
+Feb 14, 2022 18:46:19 Session 4, Peer 192.168.11.11 FTP: Connection closed.
+Feb 14, 2022 18:46:20 Session 5, Peer 192.168.11.12 FTP Server session started
+Feb 14, 2022 18:46:20 Session 5, Peer 192.168.11.12 FTP Server session started
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 USER python
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 331 User name ok, need password
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 FTP: Login attempt by: python
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 PASS XXXXXXX
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 230 User logged in
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 FTP: Login successful
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 REST 100
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 350 Requested file action pending further information
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 REST 0
+Feb 14, 2022 18:46:21 Session 5, Peer 192.168.11.12 350 Requested file action pending further information
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 TYPE I
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 200 Type set to I.
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 ALLO 690
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 202 Command not implemented on this site
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 PORT 192,168,11,12,253,39
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 200 PORT command successful.
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 STOR 192.168.11.12_vrpcfg.zip
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 150 File status OK ; about to open data connection
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 Transferring file: F:/pythonProject1/192.168.11.12_vrpcfg.zip
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 FTP: Transfer was successful
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 690 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 QUIT
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 221 Service closing control connection
+Feb 14, 2022 18:46:22 Session 5, Peer 192.168.11.12 FTP: Connection closed.
+Feb 14, 2022 18:46:24 Session 6, Peer 192.168.11.13 FTP Server session started
+Feb 14, 2022 18:46:24 Session 6, Peer 192.168.11.13 FTP Server session started
+Feb 14, 2022 18:46:24 Session 6, Peer 192.168.11.13 USER python
+Feb 14, 2022 18:46:24 Session 6, Peer 192.168.11.13 331 User name ok, need password
+Feb 14, 2022 18:46:24 Session 6, Peer 192.168.11.13 FTP: Login attempt by: python
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 PASS XXXXXXX
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 230 User logged in
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 FTP: Login successful
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 REST 100
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 350 Requested file action pending further information
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 REST 0
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 350 Requested file action pending further information
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 TYPE I
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 200 Type set to I.
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 ALLO 691
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 202 Command not implemented on this site
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 PORT 192,168,11,13,240,87
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 200 PORT command successful.
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 STOR 192.168.11.13_vrpcfg.zip
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 150 File status OK ; about to open data connection
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 Transferring file: F:/pythonProject1/192.168.11.13_vrpcfg.zip
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 FTP: Transfer was successful
+Feb 14, 2022 18:46:25 Session 6, Peer 192.168.11.13 691 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:46:26 Session 6, Peer 192.168.11.13 QUIT
+Feb 14, 2022 18:46:26 Session 6, Peer 192.168.11.13 221 Service closing control connection
+Feb 14, 2022 18:46:26 Session 6, Peer 192.168.11.13 FTP: Connection closed.
+Feb 14, 2022 18:46:27 Session 7, Peer 192.168.11.14 FTP Server session started
+Feb 14, 2022 18:46:27 Session 7, Peer 192.168.11.14 FTP Server session started
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 USER python
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 331 User name ok, need password
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 FTP: Login attempt by: python
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 PASS XXXXXXX
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 230 User logged in
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 FTP: Login successful
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 REST 100
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 350 Requested file action pending further information
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 REST 0
+Feb 14, 2022 18:46:28 Session 7, Peer 192.168.11.14 350 Requested file action pending further information
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 TYPE I
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 200 Type set to I.
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 ALLO 690
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 202 Command not implemented on this site
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 PORT 192,168,11,14,240,251
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 200 PORT command successful.
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 STOR 192.168.11.14_vrpcfg.zip
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 150 File status OK ; about to open data connection
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 Transferring file: F:/pythonProject1/192.168.11.14_vrpcfg.zip
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 FTP: Transfer was successful
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 690 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 QUIT
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 221 Service closing control connection
+Feb 14, 2022 18:46:29 Session 7, Peer 192.168.11.14 FTP: Connection closed.
+Feb 14, 2022 18:46:30 Session 8, Peer 192.168.11.15 FTP Server session started
+Feb 14, 2022 18:46:30 Session 8, Peer 192.168.11.15 FTP Server session started
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 USER python
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 331 User name ok, need password
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 FTP: Login attempt by: python
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 PASS XXXXXXX
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 230 User logged in
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 FTP: Login successful
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 REST 100
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 350 Requested file action pending further information
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 REST 0
+Feb 14, 2022 18:46:31 Session 8, Peer 192.168.11.15 350 Requested file action pending further information
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 TYPE I
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 200 Type set to I.
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 ALLO 688
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 202 Command not implemented on this site
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 PORT 192,168,11,15,238,184
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 200 PORT command successful.
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 STOR 192.168.11.15_vrpcfg.zip
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 150 File status OK ; about to open data connection
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 Transferring file: F:/pythonProject1/192.168.11.15_vrpcfg.zip
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 226 Closing data connection; File transfer successful.
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 FTP: Transfer was successful
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 688 bytes in 0 seconds (0 KBytes/sec)
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 QUIT
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 221 Service closing control connection
+Feb 14, 2022 18:46:32 Session 8, Peer 192.168.11.15 FTP: Connection closed.

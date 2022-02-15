@@ -1,0 +1,7 @@
+sys
+un in en
+int vlan 1
+description python_G1
+return
+save
+Y
