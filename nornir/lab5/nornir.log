@@ -1,0 +1,4 @@
+2022-02-16 19:17:37,609 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'sh ip arp '} on 2 hosts
+2022-02-16 19:18:24,344 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp'} on 2 hosts
+2022-02-16 19:47:08,228 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp'} on 1 hosts
+2022-02-16 19:52:48,890 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp | inc 11.14'} on 3 hosts

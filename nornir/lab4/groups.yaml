@@ -1,0 +1,6 @@
+---
+huawei_group1:
+    platform: huawei
+
+huawei_group2:
+    platform: huawei
