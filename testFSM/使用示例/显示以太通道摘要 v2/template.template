@@ -1,0 +1,6 @@
+Value CHANNEL (\S+)
+Value List MEMBERS (\w+\d+\/\d+)
+
+Start
+  ^\d+ +${CHANNEL}\(\S+ +[\w-]+ +[\w ]+ +${MEMBERS}\( -> Continue
+  ^\d+ +${CHANNEL}\(\S+ +[\w-]+ +[\w ]+ +\S+ +${MEMBERS}\( -> Record
