@@ -1,7 +1,7 @@
 from netmiko import ConnectHandler
 
 S2 = {'device_type': 'huawei',
-      'ip': '192.168.11.12',
+      'ip': '192.168.11.10',
       'username': 'python',
       'password': '123'}
 
