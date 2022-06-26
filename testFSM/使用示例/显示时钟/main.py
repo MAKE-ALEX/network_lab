@@ -11,3 +11,12 @@ with open(template) as f, open(output_file) as output:
     result = re_table.ParseText(output.read())
     print(result)
     print(tabulate(result, headers=header))
+
+
+"""
+python main.py template.template command_output.txt
+[['15:10:44', 'UTC', 'Sun', 'Nov', '13', '2016']]
+Time      Timezone    WeekDay    Month      MonthDay    Year
+--------  ----------  ---------  -------  ----------  ------
+15:10:44  UTC         Sun        Nov              13    2016
+"""
