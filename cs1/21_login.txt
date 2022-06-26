@@ -1,2 +1,0 @@
-R1,203.1.113.1,saiban,saiban
-R2,203.1.113.2,saiban,saiban
