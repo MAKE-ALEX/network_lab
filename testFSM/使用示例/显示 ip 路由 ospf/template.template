@@ -1,0 +1,9 @@
+Value network (\S+)
+Value mask (\d+)
+Value distance (\d+)
+Value metric (\d+)
+Value nexthop (\S+)
+
+Start
+  ^O +${network}/${mask}\s\[${distance}/${metric}\]\svia\s${nexthop}, -> Record
+  ^\s+\[${distance}/${metric}\]\svia\s${nexthop}, -> Record
