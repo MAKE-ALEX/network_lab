@@ -14,11 +14,13 @@ net_connect.write_channel() # 通道的低级写入
 net_connect.read_channel() # 通道的低级写入
 '''
 
+# 设置设备连接参数的字典
 S2 = {'device_type': 'huawei',
       'ip': '192.168.59.10',
       'username': 'python',
       'password': '123456'}
 
+# 传入设备连接参数的字典，返回ssh连接对象
 connect = ConnectHandler(**S2)
 print('已经成功登陆交换机' + S2['ip'])
 
