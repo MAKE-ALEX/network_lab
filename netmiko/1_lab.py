@@ -15,9 +15,9 @@ net_connect.read_channel() # 通道的低级写入
 '''
 
 S2 = {'device_type': 'huawei',
-      'ip': '192.168.11.10',
+      'ip': '192.168.59.10',
       'username': 'python',
-      'password': '123'}
+      'password': '123456'}
 
 connect = ConnectHandler(**S2)
 print('已经成功登陆交换机' + S2['ip'])
