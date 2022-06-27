@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Layer3Switch-1",
+    "connection": {
+      "device_type": "huawei",
+      "host": "192.168.59.10",
+      "username": "python",
+      "password": "123456"
+    }
+  },
+  {
+    "name": "Layer3Switch-2",
+    "connection": {
+      "device_type": "huawei",
+      "host": "192.168.59.20",
+      "username": "python",
+      "password": "123456"
+    }
+  },
+  {
+    "name": "Layer3Switch-3",
+    "connection": {
+      "device_type": "huawei",
+      "host": "192.168.59.30",
+      "username": "python",
+      "password": "123456"
+    }
+  }
+]
