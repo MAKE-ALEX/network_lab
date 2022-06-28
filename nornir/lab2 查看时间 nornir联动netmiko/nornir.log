@@ -222,3 +222,636 @@ Device settings: huawei 192.168.59.10:22
 
 
 
+2022-06-28 16:04:47,893 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock'} on 5 hosts
+2022-06-28 16:04:47,902 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 321, in ConnectHandler
+    raise ValueError(
+ValueError: Unsupported 'device_type' currently supported platforms are: 
+a10
+accedian
+adtran_os
+alcatel_aos
+alcatel_sros
+allied_telesis_awplus
+apresia_aeos
+arista_eos
+aruba_os
+aruba_osswitch
+aruba_procurve
+avaya_ers
+avaya_vsp
+broadcom_icos
+brocade_fastiron
+brocade_fos
+brocade_netiron
+brocade_nos
+brocade_vdx
+brocade_vyos
+calix_b6
+cdot_cros
+centec_os
+checkpoint_gaia
+ciena_saos
+cisco_asa
+cisco_ftd
+cisco_ios
+cisco_nxos
+cisco_s300
+cisco_tp
+cisco_wlc
+cisco_xe
+cisco_xr
+cloudgenix_ion
+coriant
+dell_dnos9
+dell_force10
+dell_isilon
+dell_os10
+dell_os6
+dell_os9
+dell_powerconnect
+dlink_ds
+eltex
+eltex_esr
+endace
+enterasys
+ericsson_ipos
+extreme
+extreme_ers
+extreme_exos
+extreme_netiron
+extreme_nos
+extreme_slx
+extreme_vdx
+extreme_vsp
+extreme_wing
+f5_linux
+f5_ltm
+f5_tmsh
+flexvnf
+fortinet
+generic
+generic_termserver
+hp_comware
+hp_procurve
+huawei
+huawei_olt
+huawei_smartax
+huawei_vrpv8
+ipinfusion_ocnos
+juniper
+juniper_junos
+juniper_screenos
+keymile
+keymile_nos
+linux
+mellanox
+mellanox_mlnxos
+mikrotik_routeros
+mikrotik_switchos
+mrv_lx
+mrv_optiswitch
+netapp_cdot
+netgear_prosafe
+netscaler
+nokia_sros
+oneaccess_oneos
+ovs_linux
+paloalto_panos
+pluribus
+quanta_mesh
+rad_etx
+raisecom_roap
+ruckus_fastiron
+ruijie_os
+sixwind_os
+sophos_sfos
+supermicro_smis
+tplink_jetstream
+ubiquiti_edge
+ubiquiti_edgerouter
+ubiquiti_edgeswitch
+ubiquiti_unifiswitch
+vyatta_vyos
+vyos
+watchguard_fireware
+yamaha
+zte_zxros
+
+2022-06-28 16:04:47,902 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 321, in ConnectHandler
+    raise ValueError(
+ValueError: Unsupported 'device_type' currently supported platforms are: 
+a10
+accedian
+adtran_os
+alcatel_aos
+alcatel_sros
+allied_telesis_awplus
+apresia_aeos
+arista_eos
+aruba_os
+aruba_osswitch
+aruba_procurve
+avaya_ers
+avaya_vsp
+broadcom_icos
+brocade_fastiron
+brocade_fos
+brocade_netiron
+brocade_nos
+brocade_vdx
+brocade_vyos
+calix_b6
+cdot_cros
+centec_os
+checkpoint_gaia
+ciena_saos
+cisco_asa
+cisco_ftd
+cisco_ios
+cisco_nxos
+cisco_s300
+cisco_tp
+cisco_wlc
+cisco_xe
+cisco_xr
+cloudgenix_ion
+coriant
+dell_dnos9
+dell_force10
+dell_isilon
+dell_os10
+dell_os6
+dell_os9
+dell_powerconnect
+dlink_ds
+eltex
+eltex_esr
+endace
+enterasys
+ericsson_ipos
+extreme
+extreme_ers
+extreme_exos
+extreme_netiron
+extreme_nos
+extreme_slx
+extreme_vdx
+extreme_vsp
+extreme_wing
+f5_linux
+f5_ltm
+f5_tmsh
+flexvnf
+fortinet
+generic
+generic_termserver
+hp_comware
+hp_procurve
+huawei
+huawei_olt
+huawei_smartax
+huawei_vrpv8
+ipinfusion_ocnos
+juniper
+juniper_junos
+juniper_screenos
+keymile
+keymile_nos
+linux
+mellanox
+mellanox_mlnxos
+mikrotik_routeros
+mikrotik_switchos
+mrv_lx
+mrv_optiswitch
+netapp_cdot
+netgear_prosafe
+netscaler
+nokia_sros
+oneaccess_oneos
+ovs_linux
+paloalto_panos
+pluribus
+quanta_mesh
+rad_etx
+raisecom_roap
+ruckus_fastiron
+ruijie_os
+sixwind_os
+sophos_sfos
+supermicro_smis
+tplink_jetstream
+ubiquiti_edge
+ubiquiti_edgerouter
+ubiquiti_edgeswitch
+ubiquiti_unifiswitch
+vyatta_vyos
+vyos
+watchguard_fireware
+yamaha
+zte_zxros
+
+2022-06-28 16:04:47,902 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 321, in ConnectHandler
+    raise ValueError(
+ValueError: Unsupported 'device_type' currently supported platforms are: 
+a10
+accedian
+adtran_os
+alcatel_aos
+alcatel_sros
+allied_telesis_awplus
+apresia_aeos
+arista_eos
+aruba_os
+aruba_osswitch
+aruba_procurve
+avaya_ers
+avaya_vsp
+broadcom_icos
+brocade_fastiron
+brocade_fos
+brocade_netiron
+brocade_nos
+brocade_vdx
+brocade_vyos
+calix_b6
+cdot_cros
+centec_os
+checkpoint_gaia
+ciena_saos
+cisco_asa
+cisco_ftd
+cisco_ios
+cisco_nxos
+cisco_s300
+cisco_tp
+cisco_wlc
+cisco_xe
+cisco_xr
+cloudgenix_ion
+coriant
+dell_dnos9
+dell_force10
+dell_isilon
+dell_os10
+dell_os6
+dell_os9
+dell_powerconnect
+dlink_ds
+eltex
+eltex_esr
+endace
+enterasys
+ericsson_ipos
+extreme
+extreme_ers
+extreme_exos
+extreme_netiron
+extreme_nos
+extreme_slx
+extreme_vdx
+extreme_vsp
+extreme_wing
+f5_linux
+f5_ltm
+f5_tmsh
+flexvnf
+fortinet
+generic
+generic_termserver
+hp_comware
+hp_procurve
+huawei
+huawei_olt
+huawei_smartax
+huawei_vrpv8
+ipinfusion_ocnos
+juniper
+juniper_junos
+juniper_screenos
+keymile
+keymile_nos
+linux
+mellanox
+mellanox_mlnxos
+mikrotik_routeros
+mikrotik_switchos
+mrv_lx
+mrv_optiswitch
+netapp_cdot
+netgear_prosafe
+netscaler
+nokia_sros
+oneaccess_oneos
+ovs_linux
+paloalto_panos
+pluribus
+quanta_mesh
+rad_etx
+raisecom_roap
+ruckus_fastiron
+ruijie_os
+sixwind_os
+sophos_sfos
+supermicro_smis
+tplink_jetstream
+ubiquiti_edge
+ubiquiti_edgerouter
+ubiquiti_edgeswitch
+ubiquiti_unifiswitch
+vyatta_vyos
+vyos
+watchguard_fireware
+yamaha
+zte_zxros
+
+2022-06-28 16:04:47,902 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 321, in ConnectHandler
+    raise ValueError(
+ValueError: Unsupported 'device_type' currently supported platforms are: 
+a10
+accedian
+adtran_os
+alcatel_aos
+alcatel_sros
+allied_telesis_awplus
+apresia_aeos
+arista_eos
+aruba_os
+aruba_osswitch
+aruba_procurve
+avaya_ers
+avaya_vsp
+broadcom_icos
+brocade_fastiron
+brocade_fos
+brocade_netiron
+brocade_nos
+brocade_vdx
+brocade_vyos
+calix_b6
+cdot_cros
+centec_os
+checkpoint_gaia
+ciena_saos
+cisco_asa
+cisco_ftd
+cisco_ios
+cisco_nxos
+cisco_s300
+cisco_tp
+cisco_wlc
+cisco_xe
+cisco_xr
+cloudgenix_ion
+coriant
+dell_dnos9
+dell_force10
+dell_isilon
+dell_os10
+dell_os6
+dell_os9
+dell_powerconnect
+dlink_ds
+eltex
+eltex_esr
+endace
+enterasys
+ericsson_ipos
+extreme
+extreme_ers
+extreme_exos
+extreme_netiron
+extreme_nos
+extreme_slx
+extreme_vdx
+extreme_vsp
+extreme_wing
+f5_linux
+f5_ltm
+f5_tmsh
+flexvnf
+fortinet
+generic
+generic_termserver
+hp_comware
+hp_procurve
+huawei
+huawei_olt
+huawei_smartax
+huawei_vrpv8
+ipinfusion_ocnos
+juniper
+juniper_junos
+juniper_screenos
+keymile
+keymile_nos
+linux
+mellanox
+mellanox_mlnxos
+mikrotik_routeros
+mikrotik_switchos
+mrv_lx
+mrv_optiswitch
+netapp_cdot
+netgear_prosafe
+netscaler
+nokia_sros
+oneaccess_oneos
+ovs_linux
+paloalto_panos
+pluribus
+quanta_mesh
+rad_etx
+raisecom_roap
+ruckus_fastiron
+ruijie_os
+sixwind_os
+sophos_sfos
+supermicro_smis
+tplink_jetstream
+ubiquiti_edge
+ubiquiti_edgerouter
+ubiquiti_edgeswitch
+ubiquiti_unifiswitch
+vyatta_vyos
+vyos
+watchguard_fireware
+yamaha
+zte_zxros
+
+2022-06-28 16:04:47,903 - nornir.core.task -    ERROR -      start() - Host 'sw5': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 321, in ConnectHandler
+    raise ValueError(
+ValueError: Unsupported 'device_type' currently supported platforms are: 
+a10
+accedian
+adtran_os
+alcatel_aos
+alcatel_sros
+allied_telesis_awplus
+apresia_aeos
+arista_eos
+aruba_os
+aruba_osswitch
+aruba_procurve
+avaya_ers
+avaya_vsp
+broadcom_icos
+brocade_fastiron
+brocade_fos
+brocade_netiron
+brocade_nos
+brocade_vdx
+brocade_vyos
+calix_b6
+cdot_cros
+centec_os
+checkpoint_gaia
+ciena_saos
+cisco_asa
+cisco_ftd
+cisco_ios
+cisco_nxos
+cisco_s300
+cisco_tp
+cisco_wlc
+cisco_xe
+cisco_xr
+cloudgenix_ion
+coriant
+dell_dnos9
+dell_force10
+dell_isilon
+dell_os10
+dell_os6
+dell_os9
+dell_powerconnect
+dlink_ds
+eltex
+eltex_esr
+endace
+enterasys
+ericsson_ipos
+extreme
+extreme_ers
+extreme_exos
+extreme_netiron
+extreme_nos
+extreme_slx
+extreme_vdx
+extreme_vsp
+extreme_wing
+f5_linux
+f5_ltm
+f5_tmsh
+flexvnf
+fortinet
+generic
+generic_termserver
+hp_comware
+hp_procurve
+huawei
+huawei_olt
+huawei_smartax
+huawei_vrpv8
+ipinfusion_ocnos
+juniper
+juniper_junos
+juniper_screenos
+keymile
+keymile_nos
+linux
+mellanox
+mellanox_mlnxos
+mikrotik_routeros
+mikrotik_switchos
+mrv_lx
+mrv_optiswitch
+netapp_cdot
+netgear_prosafe
+netscaler
+nokia_sros
+oneaccess_oneos
+ovs_linux
+paloalto_panos
+pluribus
+quanta_mesh
+rad_etx
+raisecom_roap
+ruckus_fastiron
+ruijie_os
+sixwind_os
+sophos_sfos
+supermicro_smis
+tplink_jetstream
+ubiquiti_edge
+ubiquiti_edgerouter
+ubiquiti_edgeswitch
+ubiquiti_unifiswitch
+vyatta_vyos
+vyos
+watchguard_fireware
+yamaha
+zte_zxros
+
+2022-06-28 16:06:26,159 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock'} on 5 hosts
+2022-06-28 16:08:33,667 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts

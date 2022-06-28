@@ -98,3 +98,8 @@ Traceback (most recent call last):
 napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
 
 2022-06-28 13:45:47,546 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 2 hosts
+2022-06-28 15:44:48,230 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip', 'get_interfaces']} on 5 hosts
+2022-06-28 15:45:34,990 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip', 'get_interfaces']} on 5 hosts
+2022-06-28 15:54:11,833 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip', 'get_interfaces']} on 5 hosts
+2022-06-28 15:56:22,970 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip', 'get_interfaces']} on 5 hosts
+2022-06-28 15:56:52,011 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 5 hosts

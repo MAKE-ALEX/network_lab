@@ -20,6 +20,7 @@ pip3 install nornir_netmiko
 InitNonir()函数中需要放入config_file这个参数，针对这个参数这里我们使用的是前面提到的config.yaml这个文件， 
 后面的dry_run参数在调用nornir_napalm时必须设为True。
 """
+
 nr = InitNornir(config_file="config.yaml", dry_run=True)
 
 """
@@ -27,7 +28,7 @@ nr = InitNornir(config_file="config.yaml", dry_run=True)
 "get_interfaces_ip", "get_interfaces"两个API分别用于获取接口地址和接口信息
 参考:https://github.com/napalm-automation-community/napalm-huawei-vrp/blob/master/README-ZH.md
 """
-results = nr.run(task=napalm_get, getters=["get_interfaces_ip", "get_interfaces"])
+results = nr.run(task=napalm_get, getters=["get_interfaces_ip"])
 
 """
 最后用print_result()将结果打印出来
