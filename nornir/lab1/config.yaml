@@ -1,0 +1,16 @@
+---
+# 库存管理
+inventory:
+    # 使用SimpleInventory，来管理库存
+    plugin: SimpleInventory
+    options: # 各个配置文件
+        host_file: "hosts.yaml"
+        # 存储设备信息
+        group_file: "groups.yaml"
+        # 存储分组信息
+        defaults_file: "defaults.yaml"
+        # 存储缺省信息
+runner: # 运行配置
+    plugin: threaded # 使用threaded 插件来进行多线程操作
+    options:
+        num_workers: 100 # 使用100个线程，默认20个

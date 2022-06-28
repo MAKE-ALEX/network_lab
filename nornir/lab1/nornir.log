@@ -1,0 +1,100 @@
+2022-06-28 13:39:13,868 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 2 hosts
+2022-06-28 13:39:13,877 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:39:13,878 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:40:24,404 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 2 hosts
+2022-06-28 13:40:24,413 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:40:24,414 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:40:55,822 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 2 hosts
+2022-06-28 13:40:55,833 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:40:55,833 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'napalm_get' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\tasks\napalm_get.py", line 32, in napalm_get
+    device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_napalm\plugins\connections\__init__.py", line 55, in open
+    network_driver = get_network_driver(platform)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\napalm\base\__init__.py", line 97, in get_network_driver
+    raise ModuleImportError(
+napalm.base.exceptions.ModuleImportError: Cannot import "huawei". Is the library installed?
+
+2022-06-28 13:45:47,546 -  nornir.core -     INFO -        run() - Running task 'napalm_get' with args {'getters': ['get_interfaces_ip']} on 2 hosts
