@@ -1,0 +1,2 @@
+2022-06-29 16:57:20,172 -  nornir.core -     INFO -        run() - Running task '正在采集交换机端口' with args {} on 4 hosts
+2022-06-29 16:59:05,092 -  nornir.core -     INFO -        run() - Running task '正在采集交换机端口' with args {} on 4 hosts

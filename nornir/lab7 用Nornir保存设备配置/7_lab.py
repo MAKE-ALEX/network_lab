@@ -17,5 +17,6 @@ def backup_configurations(task1):
 
 
 nr = InitNornir(config_file="config.yaml")
+# 除了实验6中提到的print_title()外，我们还可以在nr.run()里面加入参数name来给nornir的输出内容加上标题和脚注。
 result = nr.run(name="正在备份交换机配置", task=backup_configurations)
 print_result(result)
