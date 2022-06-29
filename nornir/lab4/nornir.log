@@ -1,0 +1,91 @@
+2022-06-29 15:48:25,454 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp'} on 2 hosts
+2022-06-29 15:48:30,466 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 935, in establish_connection
+    self.remote_conn_pre.connect(**ssh_connect_params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\client.py", line 349, in connect
+    retry_on_signal(lambda: sock.connect(addr))
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\util.py", line 279, in retry_on_signal
+    return function()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\client.py", line 349, in <lambda>
+    retry_on_signal(lambda: sock.connect(addr))
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 326, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 350, in __init__
+    self._open()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 355, in _open
+    self.establish_connection()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 957, in establish_connection
+    raise NetmikoTimeoutException(msg)
+netmiko.ssh_exception.NetmikoTimeoutException: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: huawei 192.168.11.12:22
+
+
+
+2022-06-29 15:48:30,466 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 935, in establish_connection
+    self.remote_conn_pre.connect(**ssh_connect_params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\client.py", line 349, in connect
+    retry_on_signal(lambda: sock.connect(addr))
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\util.py", line 279, in retry_on_signal
+    return function()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\paramiko\client.py", line 349, in <lambda>
+    retry_on_signal(lambda: sock.connect(addr))
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\connections\netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\ssh_dispatcher.py", line 326, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 350, in __init__
+    self._open()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 355, in _open
+    self.establish_connection()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 957, in establish_connection
+    raise NetmikoTimeoutException(msg)
+netmiko.ssh_exception.NetmikoTimeoutException: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: huawei 192.168.11.11:22
+
+
+
+2022-06-29 15:49:23,902 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp'} on 2 hosts
+2022-06-29 15:52:41,148 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'dis arp'} on 2 hosts
