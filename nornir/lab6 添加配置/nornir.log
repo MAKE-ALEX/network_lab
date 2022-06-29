@@ -225,3 +225,5 @@ Traceback (most recent call last):
 nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_config (failed)
 
 
+2022-06-29 16:36:43,658 -  nornir.core -     INFO -        run() - Running task 'config' with args {} on 4 hosts
+2022-06-29 16:41:00,016 -  nornir.core -     INFO -        run() - Running task 'config' with args {} on 4 hosts
