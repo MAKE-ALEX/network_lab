@@ -19,5 +19,7 @@ group1 = nr.filter(F(groups__contains="huawei_group1"))
 group2 = nr.filter(~F(groups__contains="huawei_group1"))
 
 # 这里我们首先打印出group1的内容
-results = group1.run(netmiko_send_command, command_string='display ip int brief')
+# results = group1.run(netmiko_send_command, command_string='display ip int brief')
+# results = group2.run(netmiko_send_command, command_string='display ip int brief')
+results = nr.run(netmiko_send_command, command_string='display ip int brief')
 print_result(results)

@@ -1,3 +1,0 @@
-2022-06-29 11:31:38,763 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display ip int brief'} on 2 hosts
-2022-06-29 11:32:46,085 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display ip int brief'} on 2 hosts
-2022-06-29 11:37:06,879 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display ip int brief'} on 2 hosts
