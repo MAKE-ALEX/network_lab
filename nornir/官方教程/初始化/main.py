@@ -10,7 +10,7 @@ nr = InitNornir(
         "plugin": "SimpleInventory",
         "options": {
             "host_file": "inventory/hosts.yaml",
-            "group_file": "inventory/groups.yml"
+            "group_file": "inventory/groups.yaml"
         },
     },
 )

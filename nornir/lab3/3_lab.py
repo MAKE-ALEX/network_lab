@@ -4,7 +4,7 @@ from nornir_utils.plugins.functions import print_result
 from nornir.core.filter import F
 # 在Nornir中我们可以使用nornir.core.filter下面的F()函数来做过滤
 
-nr = InitNornir(config_file="config.yml")
+nr = InitNornir(config_file="config.yaml")
 
 """
 Nornir的过滤中支持取非操作，首先我们调用nr.filter(F(groups__contains="cisco_group1")来过滤cisco_group1下的SW1和SW2，

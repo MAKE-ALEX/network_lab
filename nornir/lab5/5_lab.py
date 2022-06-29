@@ -3,7 +3,7 @@ from nornir_netmiko import netmiko_send_command
 from nornir_utils.plugins.functions import print_result
 
 # # 过滤单台
-# nr = InitNornir(config_file="config.yml")
+# nr = InitNornir(config_file="config.yaml")
 # targets = nr.filter(filter_func=lambda host: host.name == 'sw4')
 # # 这里我测试了用大写'SW4'也行
 # # targets = nr.filter(filter_func=lambda host: host.hostname=='192.168.11.14')#用IP进行定位
