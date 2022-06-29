@@ -857,3 +857,6 @@ zte_zxros
 2022-06-28 16:08:33,667 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts
 2022-06-28 16:11:12,108 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts
 2022-06-28 16:42:34,358 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts
+2022-06-29 11:25:30,778 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts
+2022-06-29 11:29:37,442 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display clock utc'} on 5 hosts
+2022-06-29 11:31:15,667 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run ¨C 0 hosts selected

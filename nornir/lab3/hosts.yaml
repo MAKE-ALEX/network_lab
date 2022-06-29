@@ -18,5 +18,5 @@ sw3:
 sw4:
     hostname: 192.168.59.40
     groups:
-        -huawei_group2
+        - huawei_group2
 
