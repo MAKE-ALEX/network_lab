@@ -6,4 +6,4 @@ SW1.open()
 
 output = SW1.get_arp_table()
 print(output)
-print(output[0]['mac'])
+
