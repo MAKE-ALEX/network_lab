@@ -594,3 +594,5 @@ Traceback (most recent call last):
   File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
 PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
 
+2022-07-03 17:33:30,972 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:50:58,845 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
