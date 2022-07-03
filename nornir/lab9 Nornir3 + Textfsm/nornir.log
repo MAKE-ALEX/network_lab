@@ -1,0 +1,426 @@
+2022-07-03 16:59:40,975 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief'} on 4 hosts
+2022-07-03 17:06:08,655 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:06:17,254 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:06:17,342 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:06:17,502 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:06:17,503 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:08:11,657 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:08:20,293 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:08:20,403 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:08:20,403 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:08:20,544 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:08,887 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:13:17,513 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:17,515 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:17,599 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:17,615 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:44,671 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:13:53,325 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:53,386 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:53,402 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:53,481 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:13:58,823 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 17:14:07,258 - nornir.core.task -    ERROR -      start() - Host 'sw3': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:14:07,443 - nornir.core.task -    ERROR -      start() - Host 'sw1': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:14:07,506 - nornir.core.task -    ERROR -      start() - Host 'sw2': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
+2022-07-03 17:14:07,585 - nornir.core.task -    ERROR -      start() - Host 'sw4': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir\core\task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\nornir_netmiko\tasks\netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 500, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\base_connection.py", line 1550, in send_command
+    structured_output = get_structured_data(
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 344, in get_structured_data
+    template_dir = get_template_dir()
+  File "C:\Users\29756\PycharmProjects\network_lab\venv\lib\site-packages\netmiko\utilities.py", line 281, in get_template_dir
+    with importresources_path(
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 117, in __enter__
+    return next(self.gen)
+  File "C:\Users\29756\AppData\Local\Programs\Python\Python39\lib\importlib\resources.py", line 175, in _path_from_reader
+    opener_reader = reader.open_resource(norm_resource)
+  File "<frozen importlib._bootstrap_external>", line 1060, in open_resource
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProjects\\network_lab\\venv\\lib\\site-packages\\ntc_templates\\templates'
+
