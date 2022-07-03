@@ -596,3 +596,4 @@ PermissionError: [Errno 13] Permission denied: 'C:\\Users\\29756\\PycharmProject
 
 2022-07-03 17:33:30,972 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
 2022-07-03 17:50:58,845 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts
+2022-07-03 18:11:23,333 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'display interface brief', 'use_textfsm': True} on 4 hosts

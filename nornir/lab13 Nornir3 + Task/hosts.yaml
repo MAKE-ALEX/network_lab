@@ -1,0 +1,31 @@
+---
+sw1:
+    hostname: 192.168.59.10
+    username: python
+    password: '123456'
+    groups:
+        - huawei_group1
+    data:
+        building: '1'
+        level: '1'
+sw2:
+    hostname: 192.168.59.20
+    groups:
+        - huawei_group1
+    data:
+        building: '1'
+        level: '2'
+sw3:
+    hostname: 192.168.59.30
+    groups:
+        - huawei_group2
+    data:
+        building: '2'
+        level: '1'
+sw4:
+    hostname: 192.168.59.40
+    groups:
+        - huawei_group2
+    data:
+        building: '2'
+        level: '2'
