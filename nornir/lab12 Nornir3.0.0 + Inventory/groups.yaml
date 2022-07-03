@@ -1,0 +1,6 @@
+---
+huawei_group1:
+    platform: huawei_vrp
+
+huawei_group2:
+    platform: huawei_vrp

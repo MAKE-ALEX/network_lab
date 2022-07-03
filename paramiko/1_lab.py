@@ -1,9 +1,9 @@
 import paramiko
 import time
 
-ip = "192.168.11.11"
+ip = "192.168.59.10"
 username = "python"
-password = "123"
+password = "123456"
 
 ssh_client = paramiko.SSHClient()
 # 开启ssh客户端
@@ -24,9 +24,9 @@ command.send("save\n")
 command.send("y\n")
 # 输入命令
 
-time.sleep(3)
+time.sleep(0.1)
 command.send("display this\n")
-time.sleep(1)
+time.sleep(0.5)
 # 要添加延迟，防止出错
 
 output = command.recv(65535)
