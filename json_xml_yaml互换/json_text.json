@@ -1,34 +1,20 @@
-{
-  "sw1": {
-    "hostname": "192.168.59.10",
-    "username": "python",
-    "password": "123456",
-    "groups": [
-      "huawei"
-    ]
+[
+  {
+    "name": "router_1",
+    "info": {
+      "device_type": "cisco_ios",
+      "username": "admin",
+      "password": "cisco",
+      "ip": "192.168.47.10"
+    }
   },
-  "sw2": {
-    "hostname": "192.168.59.20",
-    "groups": [
-      "huawei"
-    ]
-  },
-  "sw3": {
-    "hostname": "192.168.59.30",
-    "groups": [
-      "huawei"
-    ]
-  },
-  "sw4": {
-    "hostname": "192.168.59.40",
-    "groups": [
-      "huawei"
-    ]
-  },
-  "sw5": {
-    "hostname": "192.168.59.50",
-    "groups": [
-      "huawei"
-    ]
+  {
+    "name": "router_2",
+    "info": {
+      "device_type": "huawei",
+      "username": "admin",
+      "password": "huawei",
+      "ip": "192.168.47.20"
+    }
   }
-}
+]

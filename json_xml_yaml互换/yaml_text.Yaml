@@ -1,14 +1,13 @@
 # netmiko inventory
----
-name: router_1
+-
+  name: router_1
   info:
     device_type: cisco_ios
     username: admin
     password: cisco
     ip: 192.168.47.10
-
----
-name: router_2
+-
+  name: router_2
   info:
     device_type: huawei
     username: admin
