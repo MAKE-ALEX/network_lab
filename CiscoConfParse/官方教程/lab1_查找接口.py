@@ -4,7 +4,7 @@ from ciscoconfparse import CiscoConfParse
 parse = CiscoConfParse('./exampleswitch.conf', syntax='ios')
 
 # Iterate over all the interface objects
-for intf_obj in parse.find_objects('^interface'):
+for intf_obj in parse.find_objects(r'^interface'):
     print(f"ciscoconfparse object: {str(intf_obj)}")
 
 """

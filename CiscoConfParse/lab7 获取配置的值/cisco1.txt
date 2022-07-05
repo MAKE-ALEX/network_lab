@@ -1,0 +1,25 @@
+! Filename: ./cisco1.txt
+!
+hostname IAHS1MDF-AR01A
+!
+vlan 10
+ name 192.0.2.0_24_HoustonUsers_S1_Bldg_MDF
+vlan 20
+ name 128.66.0.0_24_HoustonPrinters_S1_Bldg_MDF
+!
+interface Vlan10
+ description Connection to Houston office LAN switches
+ ip address 192.0.2.2 255.255.255.0
+ ip helper-address 198.51.100.12
+ ip helper-address 203.0.113.12
+ standby 10 ip 192.0.2.1
+ standby 10 priority 110
+ arp timeout 240
+ no ip proxy-arp
+!
+interface Vlan20
+ description Connection to Houston printer subnet
+ ip address 128.66.0.2 255.255.255.0
+ standby 20 ip 128.66.01
+ standby 20 priority 110
+!
