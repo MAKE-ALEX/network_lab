@@ -1,0 +1,25 @@
+#
+interface GE1/0/0
+ port link-type trunk
+ port trunk allowed pass vlan 100 to 200
+ undo shutdown
+#
+interface GE1/0/1
+ port link-type access
+ port default-vlan 101
+ undo shutdown
+#
+interface GE1/0/2
+ port link-type trunk
+ port trunk allowed pass vlan 100 to 200
+ undo shutdown
+#
+interface GE1/0/3
+ port link-type access
+ port default-vlan 101
+ undo shutdown
+#
+interface GE1/0/4
+ port link-type trunk
+ port trunk allowed pass vlan 100 to 200
+ undo shutdown

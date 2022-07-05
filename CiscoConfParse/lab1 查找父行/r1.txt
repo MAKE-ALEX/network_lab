@@ -1,0 +1,12 @@
+#
+interface GE1/0/0
+ ip address 10.1.1.1 255.255.255.252
+ undo shutdown
+#
+interface XGE1/0/1
+ ip address 10.1.1.5 255.255.255.252
+ undo shutdown
+#
+interface XGE1/0/2
+ ip address 10.1.1.9 255.255.255.252
+ undo shutdown
