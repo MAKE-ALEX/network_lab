@@ -1,0 +1,92 @@
+C:\Users\29756\PycharmProjects\network_lab\venv\Scripts\python.exe "C:/Users/29756/PycharmProjects/network_lab/nornir/lab13 Nornir3 + Task/13_lab.py"
+[{'interface': 'GigabitEthernet0/0/1', 'mode': 'access', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/2', 'mode': 'trunk', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/3', 'mode': 'access', 'vlan': '999'}]
+['interface GigabitEthernet0/0/1', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/1', 'description Access Port to VLAN 1 (Nornir)']
+sw1 GigabitEthernet0/0/1 已配置完成
+['interface GigabitEthernet0/0/2', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/2', 'description Access Port to VLAN 1 (Nornir)']
+sw1 GigabitEthernet0/0/2 已配置完成
+['interface GigabitEthernet0/0/3', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/3', 'description Access Port to VLAN 999 (Nornir)']
+sw1 GigabitEthernet0/0/3 已配置完成
+[{'interface': 'GigabitEthernet0/0/1', 'mode': 'access', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/2', 'mode': 'trunk', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/3', 'mode': 'access', 'vlan': '999'}]
+['interface GigabitEthernet0/0/1', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/1', 'description Access Port to VLAN 1 (Nornir)']
+sw2 GigabitEthernet0/0/1 已配置完成
+['interface GigabitEthernet0/0/2', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/2', 'description Access Port to VLAN 1 (Nornir)']
+sw2 GigabitEthernet0/0/2 已配置完成
+['interface GigabitEthernet0/0/3', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/3', 'description Access Port to VLAN 999 (Nornir)']
+sw2 GigabitEthernet0/0/3 已配置完成
+[{'interface': 'GigabitEthernet0/0/1', 'mode': 'access', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/2', 'mode': 'trunk', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/3', 'mode': 'access', 'vlan': '999'}]
+['interface GigabitEthernet0/0/1', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/1', 'description Access Port to VLAN 1 (Nornir)']
+sw3 GigabitEthernet0/0/1 已配置完成
+['interface GigabitEthernet0/0/2', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/2', 'description Access Port to VLAN 1 (Nornir)']
+sw3 GigabitEthernet0/0/2 已配置完成
+['interface GigabitEthernet0/0/3', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/3', 'description Access Port to VLAN 999 (Nornir)']
+sw3 GigabitEthernet0/0/3 已配置完成
+[{'interface': 'GigabitEthernet0/0/1', 'mode': 'access', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/2', 'mode': 'trunk', 'vlan': ''}, {'interface': 'GigabitEthernet0/0/3', 'mode': 'access', 'vlan': '999'}]
+['interface GigabitEthernet0/0/1', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/1', 'description Access Port to VLAN 1 (Nornir)']
+sw4 GigabitEthernet0/0/1 已配置完成
+['interface GigabitEthernet0/0/2', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/2', 'description Access Port to VLAN 1 (Nornir)']
+sw4 GigabitEthernet0/0/2 已配置完成
+['interface GigabitEthernet0/0/3', 'description Trunk Port (Nornir)'] , ['interface GigabitEthernet0/0/3', 'description Access Port to VLAN 999 (Nornir)']
+sw4 GigabitEthernet0/0/3 已配置完成
+netmiko_send_command************************************************************
+* sw1 ** changed : False *******************************************************
+vvvv netmiko_send_command ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
+PHY: Physical
+*down: administratively down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(d): Dampening Suppressed
+Interface                     PHY     Protocol Description
+GE0/0/1                       up      up       Access Port to VLAN 1 (Nornir)
+GE0/0/2                       down    down     Trunk Port (Nornir)
+GE0/0/3                       down    down     Access Port to VLAN 999 (Nornir)
+^^^^ END netmiko_send_command ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* sw2 ** changed : False *******************************************************
+vvvv netmiko_send_command ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
+PHY: Physical
+*down: administratively down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(d): Dampening Suppressed
+Interface                     PHY     Protocol Description
+GE0/0/1                       up      up       Access Port to VLAN 1 (Nornir)
+GE0/0/2                       down    down     Trunk Port (Nornir)
+GE0/0/3                       down    down     Access Port to VLAN 999 (Nornir)
+^^^^ END netmiko_send_command ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* sw3 ** changed : False *******************************************************
+vvvv netmiko_send_command ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
+PHY: Physical
+*down: administratively down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(d): Dampening Suppressed
+Interface                     PHY     Protocol Description
+GE0/0/1                       up      up       Access Port to VLAN 1 (Nornir)
+GE0/0/2                       down    down     Trunk Port (Nornir)
+GE0/0/3                       down    down     Access Port to VLAN 999 (Nornir)
+^^^^ END netmiko_send_command ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* sw4 ** changed : False *******************************************************
+vvvv netmiko_send_command ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
+PHY: Physical
+*down: administratively down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(d): Dampening Suppressed
+Interface                     PHY     Protocol Description
+GE0/0/1                       up      up       Access Port to VLAN 1 (Nornir)
+GE0/0/2                       down    down     Trunk Port (Nornir)
+GE0/0/3                       down    down     Access Port to VLAN 999 (Nornir)
+^^^^ END netmiko_send_command ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+进程已结束,退出代码0
