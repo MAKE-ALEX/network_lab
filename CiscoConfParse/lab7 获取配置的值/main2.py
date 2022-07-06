@@ -2,9 +2,10 @@ from ciscoconfparse import CiscoConfParse
 
 parse = CiscoConfParse('./cisco1.txt')
 
+
 retval = list()
 
-HELPER_REGEX = r'ip\s+helper-address\s+(\S+)$'
+HELPER_REGEX = r'ip\s+helper-address\s+(\S+)'
 
 NO_MATCH = '__no_match__'
 

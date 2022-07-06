@@ -4,7 +4,7 @@ from ciscoconfparse import CiscoConfParse
 # 从cisco1.txt中获取主机名
 parse = CiscoConfParse('./cisco1.txt')
 
-hostname = parse.re_match_iter_typed(r'^hostname\s+(\S+)', default='')
+hostname = parse.re_match_iter_typed(r'hostname\s+(\S+)', default='')
 
 pprint(hostname)
 """

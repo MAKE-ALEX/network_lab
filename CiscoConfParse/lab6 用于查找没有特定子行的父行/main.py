@@ -6,6 +6,7 @@ find_objects_wo_child()同find_objects_w_child()相反，用于查找没有特�
 （2）匹配子行的正则或者关键字，如果子行查找的正则或关键字不存在，则返回父行
 
 """
+import nornir
 
 from ciscoconfparse import CiscoConfParse
 

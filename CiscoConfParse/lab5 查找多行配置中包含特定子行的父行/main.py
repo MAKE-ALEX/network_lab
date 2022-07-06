@@ -12,7 +12,7 @@ from ciscoconfparse import CiscoConfParse
 
 parse = CiscoConfParse('./cisco.txt')
 
-qos_int = parse.find_objects_w_child(r'^interface', r'service-policy \w+\s+\w+')
+qos_int = parse.find_objects_w_child(parentspec=r'^interface', childspec=r'service-policy \w+\s+\w+')
 # 可以匹配正则使用
 
 print(qos_int)

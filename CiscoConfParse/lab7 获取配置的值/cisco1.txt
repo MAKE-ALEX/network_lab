@@ -1,6 +1,6 @@
 ! Filename: ./cisco1.txt
 !
-hostname IAHS1MDF-AR01A
+ hostname IAHS1MDF-AR01A
 !
 vlan 10
  name 192.0.2.0_24_HoustonUsers_S1_Bldg_MDF
