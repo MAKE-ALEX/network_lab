@@ -3,6 +3,7 @@ import random
 import threading
 
 
+# 继承父类Thread
 class Func(threading.Thread):
     def __init__(self, name):
         super().__init__()
