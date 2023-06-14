@@ -6,15 +6,6 @@
                 <interface sztype="Ethernet" interfacename="GE" count="24" />
             </slot>
         </dev>
-        <dev id="08EB1DC2-D265-4863-BDD5-D048D541B00F" name="Cloud1" poe="0" model="Cloud" settings="" system_mac="" com_port="0" bootmode="0" cx="367.500000" cy="83.500000" edit_left="410" edit_top="168">
-            <slot number="slot17" isMainBoard="1">
-                <interface sztype="Ethernet" interfacename="Ethernet" count="2" />
-                <interface sztype="Ethernet" interfacename="GE" count="0" />
-                <interface sztype="Serial" interfacename="Serial" count="0" />
-                <interfaceMap sztype="Ethernet" interfacename="Ethernet" displayNo="1" remoteDisplayNo="2" adapterUid="" isOpen="0" udpPort="0" peerIPAdd="0.0.0.0" peerIP="0" peerPort="0" />
-                <interfaceMap sztype="Ethernet" interfacename="Ethernet" displayNo="2" remoteDisplayNo="1" adapterUid="\Device\NPF_{C38F9308-7515-4710-8756-8E8CCF79FC2C}" isOpen="1" udpPort="0" peerIPAdd="0.0.0.0" peerIP="0" peerPort="0" />
-            </slot>
-        </dev>
         <dev id="B95F4C12-26A9-4eaf-B039-D780AA916F55" name="LSW8" poe="0" model="S5700" settings="" system_mac="4C-1F-CC-B2-4F-A6" com_port="2000" bootmode="0" cx="226.000000" cy="368.000000" edit_left="253" edit_top="422">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="GE" count="24" />
@@ -30,11 +21,16 @@
                 <interface sztype="Ethernet" interfacename="GE" count="24" />
             </slot>
         </dev>
+        <dev id="B83B36BC-4FA6-4cec-9499-7F636F3F70A8" name="Cloud1" poe="0" model="Cloud" settings="" system_mac="" com_port="0" bootmode="0" cx="329.500000" cy="44.500000" edit_left="372" edit_top="129">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="0" />
+                <interface sztype="Serial" interfacename="Serial" count="0" />
+                <interfaceMap sztype="Ethernet" interfacename="Ethernet" displayNo="1" remoteDisplayNo="0" adapterUid="" isOpen="0" udpPort="0" peerIPAdd="0.0.0.0" peerIP="0" peerPort="0" />
+            </slot>
+        </dev>
     </devices>
     <lines>
-        <line srcDeviceID="08EB1DC2-D265-4863-BDD5-D048D541B00F" destDeviceID="0B6C92C4-4D8A-404d-80D5-11D8FD458F6C">
-            <interfacePair lineName="Copper" srcIndex="0" srcBoundRectIsMoved="0" srcBoundRect_X="404.577332" srcBoundRect_Y="190.168243" srcOffset_X="0.000000" srcOffset_Y="0.000000" tarIndex="0" tarBoundRectIsMoved="0" tarBoundRect_X="401.636383" tarBoundRect_Y="224.969604" tarOffset_X="0.000000" tarOffset_Y="0.000000" />
-        </line>
         <line srcDeviceID="0B6C92C4-4D8A-404d-80D5-11D8FD458F6C" destDeviceID="B95F4C12-26A9-4eaf-B039-D780AA916F55">
             <interfacePair lineName="Copper" srcIndex="1" srcBoundRectIsMoved="0" srcBoundRect_X="365.514801" srcBoundRect_Y="296.452576" srcOffset_X="0.000000" srcOffset_Y="0.000000" tarIndex="0" tarBoundRectIsMoved="0" tarBoundRect_X="285.485199" tarBoundRect_Y="366.547424" tarOffset_X="0.000000" tarOffset_Y="0.000000" />
         </line>
