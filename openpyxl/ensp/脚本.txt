@@ -1,0 +1,29 @@
+system-view 
+sysname sw1
+
+interface Vlanif 1
+ip add 192.168.59.10 24
+quit
+
+user-interface vty 0 4
+authentication-mode aaa 
+protocol inbound ssh
+user privilege level 15 
+quit
+
+rsa local-key-pair create 
+
+
+
+stelnet server enable 
+
+ssh user python
+ssh user python service-type all
+ssh user python authentication-type password 
+
+aaa
+local-user python password cipher 123456
+local-user python privilege level 15
+local-user python service-type ssh 
+quit
+
